@@ -6,10 +6,16 @@ csum=
 host=127.0.0.1
 name=Site.SideBar
 passwdedit=@_site_edit
-rev=4
-targets=Main.HomePage,Site.Meetings,Meetings.Format,Meetings.Notes,Site.Membership,Membership.Policies,Membership.Members,Membership.Joining,Site.Projects,Projects.FarmersMarket,Projects.AgingGracefully,Projects.B-CFerryService,PmWiki.BasicEditing,PmWiki.DocumentationIndex,PmWiki.FAQ,PmWiki.PmWikiPhilosophy,Site.SideBar
-text=* [[Main/HomePage]]%0a%0a%25sidehead%25 [[Meetings]]%0a* [[Meetings/Format]]%0a* [[Meetings/Notes]]%0a%0a%25sidehead%25 [[Membership]]%0a* [[Membership/Policies]]%0a* [[Membership/Members]]%0a* [[Membership/Joining]]%0a%0a%25sidehead%25 [[Projects]]%0a* [[Projects/Farmers Market]]%0a* [[Projects/Aging Gracefully]]%0a* [[Projects/B-C Ferry Service]]%0a%0a%25sidehead%25 How a wiki works  %0a* [[PmWiki/Basic Editing]]%0a* [[PmWiki/Documentation Index]]%0a* [[PmWiki/FAQ | PmWiki FAQ ]]%0a* [[PmWiki/PmWikiPhilosophy]]%0a%0a%0a%25right%25 [-[[Site.SideBar?action=edit | edit SideBar]]-]
-time=1238696230
+rev=6
+targets=Main.HomePage,Site.Meetings,Meetings.Format,Meetings.Notes,Site.Membership,Membership.Policies,Membership.Members,Membership.Joining,Site.Projects,Projects.MappingNeeds,Projects.FarmersMarket,Projects.AgingGracefully,Projects.B-CFerryService,Projects.IceSkatingRink,PmWiki.BasicEditing,PmWiki.DocumentationIndex,PmWiki.FAQ,PmWiki.PmWikiPhilosophy,Site.SideBar
+text=* [[Main/HomePage]]%0a%0a%25sidehead%25 [[Meetings]]%0a* [[Meetings/Format]]%0a* [[Meetings/Notes]]%0a%0a%25sidehead%25 [[Membership]]%0a* [[Membership/Policies]]%0a* [[Membership/Members]]%0a* [[Membership/Joining]]%0a%0a%25sidehead%25 [[Projects]]%0a* [[Projects/Mapping Needs]]%0a* [[Projects/Farmers Market]]%0a* [[Projects/Aging Gracefully]]%0a* [[Projects/B-C Ferry Service]]%0a* [[Projects/Ice Skating Rink]]%0a%0a%25sidehead%25 How a wiki works  %0a* [[PmWiki/Basic Editing]]%0a* [[PmWiki/Documentation Index]]%0a* [[PmWiki/FAQ | PmWiki FAQ ]]%0a* [[PmWiki/PmWikiPhilosophy]]%0a%0a%0a%25right%25 [-[[Site.SideBar?action=edit | edit SideBar]]-]
+time=1238696367
+author:1238696367=Colin Powell
+diff:1238696367:1238696339:=13d12%0a%3c * [[Projects/Mapping Needs]]%0a
+host:1238696367=127.0.0.1
+author:1238696339=Colin Powell
+diff:1238696339:1238696230:=16d15%0a%3c * [[Projects/Ice Skating Rink]]%0a
+host:1238696339=127.0.0.1
 author:1238696230=Colin Powell
 diff:1238696230:1238695246:=15a16%0a> * [[Projects/After School Options]]%0a
 host:1238696230=127.0.0.1

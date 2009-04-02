@@ -1,0 +1,15 @@
+version=pmwiki-2.2.0 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.8) Gecko/2009032711 Ubuntu/8.10 (intrepid) Firefox/3.0.8
+author=Colin Powell
+charset=ISO-8859-1
+csum=
+ctime=1238696501
+host=127.0.0.1
+name=Projects.MappingNeeds
+rev=1
+targets=People.GilTenney
+text=! Mapping overlapping needs%0a%0a!! Overview%0aMapping overlapping needs with other communities gave birth to the Research Coordinator position, which the group hired someone to handle using $1,000 in grant money from [[http://healthypeninsula.org|Health Peninsula]].%0a%0aThe idea is to discover what other similar groups in the area are doing and determine how we can collaborate and cooperate with their efforts instead of duplicating them.%0a%0a!! Task Force%0a* [[People/Gil Tenney]]
+time=1238696501
+author:1238696501=Colin Powell
+diff:1238696501:1238696501:=1,9d0%0a%3c ! Mapping overlapping needs%0a%3c %0a%3c !! Overview%0a%3c Mapping overlapping needs with other communities gave birth to the Research Coordinator position, which the group hired someone to handle using $1,000 in grant money from [[http://healthypeninsula.org|Health Peninsula]].%0a%3c %0a%3c The idea is to discover what other similar groups in the area are doing and determine how we can collaborate and cooperate with their efforts instead of duplicating them.%0a%3c %0a%3c !! Task Force%0a%3c * [[People/Gil Tenney]]%0a\ No newline at end of file%0a
+host:1238696501=127.0.0.1
