@@ -1,0 +1,18 @@
+version=pmwiki-2.2.0 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.8) Gecko/2009032711 Ubuntu/8.10 (intrepid) Firefox/3.0.8
+author=Colin Powell
+charset=ISO-8859-1
+csum=
+ctime=1238691545
+host=127.0.0.1
+name=Site.ProposedStructure
+rev=2
+targets=
+text=!!! Layout of a friends and neighbor site%0a%0aOf course, the beauty of a wiki is that it can be laid out any way you want. The following is merely a suggestion for how a group might use their wiki to further their group's goals.%0a%0a* Home page%0a** Statement of purpose%0a** Meeting times%0a* Membership%0a** How to become a member%0a** List of members (perhaps w/o email addresses for privacy)%0a* Projects%0a** Currently active projects%0a** Proposed projects%0a
+time=1238691562
+author:1238691562=Colin Powell
+diff:1238691562:1238691545:=1c1%0a%3c !!! Layout of a friends and neighbor site%0a---%0a> !! Layout of a friends and neighbor site%0a
+host:1238691562=127.0.0.1
+author:1238691545=Colin Powell
+diff:1238691545:1238691545:=1,13d0%0a%3c !! Layout of a friends and neighbor site%0a%3c %0a%3c Of course, the beauty of a wiki is that it can be laid out any way you want. The following is merely a suggestion for how a group might use their wiki to further their group's goals.%0a%3c %0a%3c * Home page%0a%3c ** Statement of purpose%0a%3c ** Meeting times%0a%3c * Membership%0a%3c ** How to become a member%0a%3c ** List of members (perhaps w/o email addresses for privacy)%0a%3c * Projects%0a%3c ** Currently active projects%0a%3c ** Proposed projects%0a
+host:1238691545=127.0.0.1

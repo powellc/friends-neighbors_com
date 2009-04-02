@@ -1,0 +1,17 @@
+version=pmwiki-2.2.0 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.8) Gecko/2009032711 Ubuntu/8.10 (intrepid) Firefox/3.0.8
+author=Colin Powell
+charset=ISO-8859-1
+csum=
+host=127.0.0.1
+name=Main.HomePage
+rev=202
+targets=
+text=!! Welcome to Castine Friends and Neighbors!
+time=1238694053
+author:1238694053=Colin Powell
+diff:1238694053:1238691898:=1c1%0a%3c !! Welcome to Castine Friends and Neighbors!%0a\ No newline at end of file%0a---%0a> Welcome to Castine Friends and Neighbors!%0a\ No newline at end of file%0a
+host:1238694053=127.0.0.1
+author:1238691898=Colin Powell
+diff:1238691898:1142203034:=1c1,12%0a%3c Welcome to Castine Friends and Neighbors!%0a\ No newline at end of file%0a---%0a> Welcome to PmWiki!%0a> %0a> A local copy of PmWiki's%0a> documentation has been installed along with the software,%0a> and is available via the [[PmWiki/documentation index]].  %0a> %0a> To continue setting up PmWiki, see [[PmWiki/initial setup tasks]].%0a> %0a> The [[PmWiki/basic editing]] page describes how to create pages%0a> in PmWiki.  You can practice editing in the [[wiki sandbox]].%0a> %0a> More information about PmWiki is available from http://www.pmwiki.org .%0a
+host:1238691898=127.0.0.1

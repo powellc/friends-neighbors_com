@@ -1,0 +1,24 @@
+version=pmwiki-2.2.0 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.8) Gecko/2009032711 Ubuntu/8.10 (intrepid) Firefox/3.0.8
+author=Colin Powell
+charset=ISO-8859-1
+csum=
+ctime=1238695052
+host=127.0.0.1
+name=Projects.FarmersMarket
+rev=4
+targets=People.ColinPowell,People.GeneBland,People.EmmaSweet,Projects.LocalFoodsGroup
+text=!! Castine Farmers Market%0a%0a!!! Overview%0aA project to simply start a farmers' market in Castine. We're not sure if there's a historical precedence for such an event, but we'd like to start one.%0a%0a* [[http://castinefarmersmarket.org|Website]]%0a%0a!!! Task force%0a* [[People/Colin Powell]]%0a* [[People/Gene Bland]]%0a* [[People/Emma Sweet]]%0a%0a!!! Related projects%0a%0a* [[Projects/Local Foods Group]]
+time=1238695804
+author:1238695804=Colin Powell
+diff:1238695804:1238695772:=15c15%0a%3c * [[Projects/Local Foods Group]]%0a\ No newline at end of file%0a---%0a> * [[Projects/Castine Local Foods Group]]%0a\ No newline at end of file%0a
+host:1238695804=127.0.0.1
+author:1238695772=Colin Powell
+diff:1238695772:1238695059:=13,15d12%0a%3c !!! Related projects%0a%3c %0a%3c * [[Projects/Castine Local Foods Group]]%0a\ No newline at end of file%0a
+host:1238695772=127.0.0.1
+author:1238695059=Colin Powell
+diff:1238695059:1238695052:=6c6%0a%3c * [[http://castinefarmersmarket.org|Website]]%0a---%0a> * [[http://castinefarmersmarket.org|Webiste]]%0a
+host:1238695059=127.0.0.1
+author:1238695052=Colin Powell
+diff:1238695052:1238695052:=1,12d0%0a%3c !! Castine Farmers Market%0a%3c %0a%3c !!! Overview%0a%3c A project to simply start a farmers' market in Castine. We're not sure if there's a historical precedence for such an event, but we'd like to start one.%0a%3c %0a%3c * [[http://castinefarmersmarket.org|Webiste]]%0a%3c %0a%3c !!! Task force%0a%3c * [[People/Colin Powell]]%0a%3c * [[People/Gene Bland]]%0a%3c * [[People/Emma Sweet]]%0a%3c %0a
+host:1238695052=127.0.0.1

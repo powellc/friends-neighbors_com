@@ -1,0 +1,15 @@
+version=pmwiki-2.2.0 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.8) Gecko/2009032711 Ubuntu/8.10 (intrepid) Firefox/3.0.8
+author=Colin Powell
+charset=ISO-8859-1
+csum=
+ctime=1238694489
+host=127.0.0.1
+name=Site.Meetings
+rev=1
+targets=Projects.Proposed
+text=!! Meetings%0a%0aThe Castine Friends and Neighbors group meets every other Thursday at 4 p.m. in the Witherle Memorial Library. %0a%0aOur agendas are usually fairly loose, and we talk about what projects people are working on, difficulties, interested people, resources, and so on. We also reserve the last 10 minutes of every meeting for a "bubble up" session, where people put forward new ideas they would like to see action on. They do not necessarily have to be the ones to spearhead the project, but just have an interest in it.%0a%0aWe keep lists of all proposed ideas for reference. See the [[Projects/Proposed]] projects page for more information.
+time=1238694489
+author:1238694489=Colin Powell
+diff:1238694489:1238694489:=1,7d0%0a%3c !! Meetings%0a%3c %0a%3c The Castine Friends and Neighbors group meets every other Thursday at 4 p.m. in the Witherle Memorial Library. %0a%3c %0a%3c Our agendas are usually fairly loose, and we talk about what projects people are working on, difficulties, interested people, resources, and so on. We also reserve the last 10 minutes of every meeting for a "bubble up" session, where people put forward new ideas they would like to see action on. They do not necessarily have to be the ones to spearhead the project, but just have an interest in it.%0a%3c %0a%3c We keep lists of all proposed ideas for reference. See the [[Projects/Proposed]] projects page for more information.%0a\ No newline at end of file%0a
+host:1238694489=127.0.0.1

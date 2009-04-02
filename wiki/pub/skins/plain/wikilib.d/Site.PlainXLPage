@@ -1,0 +1,8 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+author=HaganFox
+ctime=1183245745
+name=Site.PlainXLPage
+rev=2
+targets=
+text=This is the Light Skin Preferences page.%0a[@%0a%0a  # Define an Edit Form.%0a  'Site.LightEditForm' => '',%0a  # Example: Use the default PmWiki Edit Form.%0a  #'Site.LightEditForm' => 'Site.EditForm',%0a%0a  # Use the custom Upload QuickReference page.%0a  'Site.UploadQuickReference' => 'Site.PlainUploadQuickReference',%0a%0a@]
+time=1183245745

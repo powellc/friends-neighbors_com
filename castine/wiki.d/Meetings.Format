@@ -1,0 +1,15 @@
+version=pmwiki-2.2.0 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.8) Gecko/2009032711 Ubuntu/8.10 (intrepid) Firefox/3.0.8
+author=Colin Powell
+charset=ISO-8859-1
+csum=
+ctime=1238694561
+host=127.0.0.1
+name=Meetings.Format
+rev=1
+targets=
+text=!! Meeting format%0a%0aOur agenda usually consists of four parts:%0a%0a# Introductions%0a# Communication%0a# Update of ongoing projects%0a# Bubble up session for new projects
+time=1238694561
+author:1238694561=Colin Powell
+diff:1238694561:1238694561:=1,8d0%0a%3c !! Meeting format%0a%3c %0a%3c Our agenda usually consists of four parts:%0a%3c %0a%3c # Introductions%0a%3c # Communication%0a%3c # Update of ongoing projects%0a%3c # Bubble up session for new projects%0a\ No newline at end of file%0a
+host:1238694561=127.0.0.1

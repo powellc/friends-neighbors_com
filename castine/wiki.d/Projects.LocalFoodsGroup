@@ -1,0 +1,15 @@
+version=pmwiki-2.2.0 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.8) Gecko/2009032711 Ubuntu/8.10 (intrepid) Firefox/3.0.8
+author=Colin Powell
+charset=ISO-8859-1
+csum=
+ctime=1238696097
+host=127.0.0.1
+name=Projects.LocalFoodsGroup
+rev=1
+targets=Projects.Proposed,Projects.FarmersMarket
+text=! Castine Local Foods Group ([[Projects/Proposed]])%0a%0a!! Overview%0aWhile planning the [[Projects/Farmers Market]], a number of other ideas popped up. One of which was the idea of a group that could advocate and organize resources for local foods in Castine.%0a%0aOne of the hardest things about subsisting on local foods is just knowing what's available. The Local Foods Group would help by coordinating a [[http://wikipedia.org/en/Community_Supported_Agriculture|CSA]] fair in the winter, helping to plan the [[Projects/Farmers Market]], or compiling a list of local food resources in the immediate area.%0a
+time=1238696097
+author:1238696097=Colin Powell
+diff:1238696097:1238696097:=1,6d0%0a%3c ! Castine Local Foods Group ([[Projects/Proposed]])%0a%3c %0a%3c !! Overview%0a%3c While planning the [[Projects/Farmers Market]], a number of other ideas popped up. One of which was the idea of a group that could advocate and organize resources for local foods in Castine.%0a%3c %0a%3c One of the hardest things about subsisting on local foods is just knowing what's available. The Local Foods Group would help by coordinating a [[http://wikipedia.org/en/Community_Supported_Agriculture|CSA]] fair in the winter, helping to plan the [[Projects/Farmers Market]], or compiling a list of local food resources in the immediate area.%0a
+host:1238696097=127.0.0.1

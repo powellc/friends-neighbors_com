@@ -1,0 +1,24 @@
+version=pmwiki-2.2.0 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.8) Gecko/2009032711 Ubuntu/8.10 (intrepid) Firefox/3.0.8
+author=Colin Powell
+charset=ISO-8859-1
+csum=
+host=127.0.0.1
+name=Site.SideBar
+passwdedit=@_site_edit
+rev=4
+targets=Main.HomePage,Site.Meetings,Meetings.Format,Meetings.Notes,Site.Membership,Membership.Policies,Membership.Members,Membership.Joining,Site.Projects,Projects.FarmersMarket,Projects.AgingGracefully,Projects.B-CFerryService,PmWiki.BasicEditing,PmWiki.DocumentationIndex,PmWiki.FAQ,PmWiki.PmWikiPhilosophy,Site.SideBar
+text=* [[Main/HomePage]]%0a%0a%25sidehead%25 [[Meetings]]%0a* [[Meetings/Format]]%0a* [[Meetings/Notes]]%0a%0a%25sidehead%25 [[Membership]]%0a* [[Membership/Policies]]%0a* [[Membership/Members]]%0a* [[Membership/Joining]]%0a%0a%25sidehead%25 [[Projects]]%0a* [[Projects/Farmers Market]]%0a* [[Projects/Aging Gracefully]]%0a* [[Projects/B-C Ferry Service]]%0a%0a%25sidehead%25 How a wiki works  %0a* [[PmWiki/Basic Editing]]%0a* [[PmWiki/Documentation Index]]%0a* [[PmWiki/FAQ | PmWiki FAQ ]]%0a* [[PmWiki/PmWikiPhilosophy]]%0a%0a%0a%25right%25 [-[[Site.SideBar?action=edit | edit SideBar]]-]
+time=1238696230
+author:1238696230=Colin Powell
+diff:1238696230:1238695246:=15a16%0a> * [[Projects/After School Options]]%0a
+host:1238696230=127.0.0.1
+author:1238695246=Colin Powell
+diff:1238695246:1238694307:=18c18%0a%3c %25sidehead%25 How a wiki works  %0a---%0a> %25sidehead%25 How to use this site  %0a
+host:1238695246=127.0.0.1
+author:1238694307=Colin Powell
+diff:1238694307:1238694236:=2,6d1%0a%3c %0a%3c %25sidehead%25 [[Meetings]]%0a%3c * [[Meetings/Format]]%0a%3c * [[Meetings/Notes]]%0a%3c %0a8d2%0a%3c * [[Membership/Policies]]%0a
+host:1238694307=127.0.0.1
+author:1238694236=Colin Powell
+diff:1238694236:1125550800:=2,12c2,5%0a%3c %25sidehead%25 [[Membership]]%0a%3c * [[Membership/Members]]%0a%3c * [[Membership/Joining]]%0a%3c %0a%3c %25sidehead%25 [[Projects]]%0a%3c * [[Projects/Farmers Market]]%0a%3c * [[Projects/Aging Gracefully]]%0a%3c * [[Projects/B-C Ferry Service]]%0a%3c * [[Projects/After School Options]]%0a%3c %0a%3c %25sidehead%25 How to use this site  %0a---%0a> * [[Main/WikiSandbox]]%0a> %0a> %25sidehead%25 [[PmWiki/PmWiki]]%0a> * [[PmWiki/Initial Setup Tasks]]  %0a17c10,17%0a%3c %0a---%0a> * [[PmWiki/Release Notes]]%0a> * [[PmWiki/ChangeLog]]%0a> %0a> %25sidehead%25 [[http://www.pmwiki.org | pmwiki.org ]]%0a> * [[Cookbook:CookbookBasics | Cookbook (addons) ]]%0a> * [[Cookbook:Skins | Skins (themes) ]]%0a> * [[PITS:PITS | PITS (issue tracking) ]]%0a> * [[PmWiki/Mailing Lists]]%0a
+host:1238694236=127.0.0.1

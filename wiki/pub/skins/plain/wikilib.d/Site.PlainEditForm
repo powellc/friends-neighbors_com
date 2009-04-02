@@ -1,0 +1,7 @@
+version=pmwiki-2.1.0 ordered=1 urlencoded=1
+author=HaganFox
+ctime=1141342109
+name=Site.PlainEditForm
+rev=4
+text=(:noleft:)(:noright:)!$[Editing] `{*$FullName} %25block class=wikiaction%25%0a(:messages:)%0a(:div id='wikiedit':)%0a(:input e_form:)[[#top]]%25ebutton%25(:input e_previewbutton:)%25%25 %25gotopreview%25[[#preview | $[v] ]]%25%25 %25ebutton%25(:input e_cancelbutton:)%25%25 %25eguibuttons%25(:e_guibuttons:)%25%25\\%0a(:input e_textarea:)%0a$[Summary]: %25eformtext%25(:input e_changesummary:)%25%25\\%0a$[Author]: %25eformtext%25(:input e_author:)%25%25 (:input e_minorcheckbox:) $[This is a minor edit]\\%0a%25ebutton%25(:input e_savebutton:)%25%25 %25ebutton%25(:input e_saveeditbutton:)%25%25 %25ebutton%25(:input e_savedraftbutton:)%25%25 %25ebutton%25(:input e_previewbutton:)%25%25 %25gotopreview%25[[#preview | $[v] ]]%25%25 %25ebutton%25(:input e_cancelbutton:)%25%25 [[#preview]](:input end:)%0a(:divend:)%0a(:include $[{$SiteGroup}/EditQuickReference]:)%0a(:if e_preview:)%0a!!$[Preview {*$FullName}]%0a'''$[Beginning of preview -- page is unsaved]'''%0a%0a>>e-preview%3c%3c%0a(:e_preview:)%0a>>%3c%3c%0a%0a'''$[End of preview -- remember to save]'''\\%0a[[#top | ^ $[Top] ^ ]]%0a(:if:)
+time=1142305689

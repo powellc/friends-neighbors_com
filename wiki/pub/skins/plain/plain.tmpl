@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+  <title>$WikiTitle : {$Titlespaced} $ActionTitle</title>
+  <meta http-equiv='Content-Style-Type' content='text/css' />
+  <link rel='stylesheet' href='$SkinDirUrl/plain1.css' type='text/css' />
+  <!--HeaderText-->
+</head>
+<body>
+<!--PageHeaderFmt-->
+ <table id='wikihead' cellspacing='0' cellpadding='0' align='center'><tr>
+  <td id='homelink'><a href='{$ScriptUrl}'>$WikiTitle</a></td>
+  <td id='location'><span class='pagegroup'><a href='{$ScriptUrl}/{$Group}'>{$Group}</a> &raquo;</span>
+  <h1 class='pagetitle'>{$Titlespaced}</h1></td>
+  <td id='wikicmds'><!--wiki:{$Group}.PageActions {$SiteGroup}.PageActions--></td>
+ </tr></table> 
+<!--/PageHeaderFmt-->
+  <table id='wikimid' cellspacing='0' cellpadding='0' align='$PlainMidAlign'><tr>
+<!--PageLeftFmt-->
+   <td id='wikileft' valign='top'>
+    <form action='{$ScriptUrl}'>
+     <input type='hidden' name='n' value='{$FullName}' />
+     <input type='hidden' name='action' value='search' />
+     <input type='text' name='q' value=' $[Search] ' class='inputbox searchbox'
+      onfocus="if(this.value=' $[Search] ') {this.value=''}" 
+      onblur="if(this.value=='') {this.value=' $[Search] '}"
+      /><input type='submit' class='inputbutton searchbutton'
+      value='$[Go]' /></form>
+<!--wiki:{$Group}.SideBar {$SiteGroup}.SideBar--></td>
+<!--/PageLeftFmt-->
+    <td id='wikibody' valign='top'>
+<!--PageText-->
+    </td>
+  </tr></table>$PlainBr
+  <!--PageFooterFmt-->
+ <table id='wikifoot' cellspacing='0' cellpadding='0' align='center'><tr>
+  <td class='lastmod'>$[Page last modified on {$LastModified}]</td>
+  <td class='footnav'><!--wiki:{$Group}.PlainFooterMenu {$SiteGroup}.PlainFooterMenu--></td>
+ </tr></table>
+<!--/PageFooterFmt-->
+</body>
+</html>

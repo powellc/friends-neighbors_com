@@ -1,0 +1,19 @@
+version=pmwiki-2.2.0 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.7) Gecko/2009030422 Ubuntu/8.10 (intrepid) Firefox/3.0.7
+author=Colin Powell
+charset=ISO-8859-1
+csum=
+host=127.0.0.1
+name=Site.SideBar
+passwdedit=@_site_edit
+rev=3
+targets=Main.HomePage,Site.WhatIsAWiki,PmWiki.BasicEditing,Site.ProposedStructure,PmWiki.PmWiki,PmWiki.InitialSetupTasks,Site.SideBar
+text=* [[Main/HomePage]]%0a* [[What Is A Wiki]]?%0a* [[PmWiki/Basic Editing]]%0a* [[Proposed Structure]]%0a%0a%25sidehead%25 [[PmWiki/PmWiki]]%0a* [[PmWiki/Initial Setup Tasks]]  %0a%0a%25right%25 [-[[Site.SideBar?action=edit | edit SideBar]]-]
+time=1238042625
+author:1238042625=Colin Powell
+diff:1238042625:1238042604:=2c2%0a%3c * [[What Is A Wiki]]?%0a---%0a> * [[WhatIsAWiki]]?%0a4c4%0a%3c * [[Proposed Structure]]%0a---%0a> * [[ProposedStructure]]%0a
+host:1238042625=127.0.0.1
+author:1238042604=Colin Powell
+diff:1238042604:1125550800:=2c2,5%0a%3c * [[WhatIsAWiki]]?%0a---%0a> * [[Main/WikiSandbox]]%0a> %0a> %25sidehead%25 [[PmWiki/PmWiki]]%0a> * [[PmWiki/Initial Setup Tasks]]  %0a4,7c7,17%0a%3c * [[ProposedStructure]]%0a%3c %0a%3c %25sidehead%25 [[PmWiki/PmWiki]]%0a%3c * [[PmWiki/Initial Setup Tasks]]  %0a---%0a> * [[PmWiki/Documentation Index]]%0a> * [[PmWiki/FAQ | PmWiki FAQ ]]%0a> * [[PmWiki/PmWikiPhilosophy]]%0a> * [[PmWiki/Release Notes]]%0a> * [[PmWiki/ChangeLog]]%0a> %0a> %25sidehead%25 [[http://www.pmwiki.org | pmwiki.org ]]%0a> * [[Cookbook:CookbookBasics | Cookbook (addons) ]]%0a> * [[Cookbook:Skins | Skins (themes) ]]%0a> * [[PITS:PITS | PITS (issue tracking) ]]%0a> * [[PmWiki/Mailing Lists]]%0a
+diff:1238042604:1238042604:=
+host:1238042604=127.0.0.1

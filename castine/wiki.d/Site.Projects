@@ -1,0 +1,27 @@
+version=pmwiki-2.2.0 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.8) Gecko/2009032711 Ubuntu/8.10 (intrepid) Firefox/3.0.8
+author=Colin Powell
+charset=ISO-8859-1
+csum=
+ctime=1238694899
+host=127.0.0.1
+name=Site.Projects
+rev=5
+targets=Projects.FarmersMarket,Projects.AgingGracefully,Projects.B-CFerryService,Projects.LocalFoodsGroup,Projects.AfterSchoolOptions
+text=!! Projects%0a%0aThe Friends and Neighbor group in Castine exists in large part to bring people together and get them sharing ideas and starting projects. Thus, the meat of the operation could be said to be the projects we are undertaking at any given point. From this page you can find a list of all our current projects, as well as ones proposed but not acted on yet.%0a%0a!!! Active projects%0a* [[Projects/Farmers Market]]%0a* [[Projects/Aging Gracefully]]%0a* [[Projects/B-C Ferry Service]]%0a%0a!!! Proposed projects%0a* [[Projects/Local Foods Group]]%0a* [[Projects/After School Options]]
+time=1238696217
+author:1238696217=Colin Powell
+diff:1238696217:1238696216:=
+host:1238696217=127.0.0.1
+author:1238696216=Colin Powell
+diff:1238696216:1238696204:=11c11%0a%3c * [[Projects/Local Foods Group]]%0a---%0a> * [[Projects/Local Food Group]]%0a
+host:1238696216=127.0.0.1
+author:1238696204=Colin Powell
+diff:1238696204:1238694924:=11d10%0a%3c * [[Projects/Local Food Group]]%0a
+host:1238696204=127.0.0.1
+author:1238694924=Colin Powell
+diff:1238694924:1238694899:=11c11%0a%3c * [[Projects/After School Options]]%0a\ No newline at end of file%0a---%0a> * [[Projects/After School]]%0a\ No newline at end of file%0a
+host:1238694924=127.0.0.1
+author:1238694899=Colin Powell
+diff:1238694899:1238694899:=1,11d0%0a%3c !! Projects%0a%3c %0a%3c The Friends and Neighbor group in Castine exists in large part to bring people together and get them sharing ideas and starting projects. Thus, the meat of the operation could be said to be the projects we are undertaking at any given point. From this page you can find a list of all our current projects, as well as ones proposed but not acted on yet.%0a%3c %0a%3c !!! Active projects%0a%3c * [[Projects/Farmers Market]]%0a%3c * [[Projects/Aging Gracefully]]%0a%3c * [[Projects/B-C Ferry Service]]%0a%3c %0a%3c !!! Proposed projects%0a%3c * [[Projects/After School]]%0a\ No newline at end of file%0a
+host:1238694899=127.0.0.1

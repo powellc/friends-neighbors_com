@@ -1,0 +1,15 @@
+version=pmwiki-2.2.0 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.8) Gecko/2009032711 Ubuntu/8.10 (intrepid) Firefox/3.0.8
+author=Colin Powell
+charset=ISO-8859-1
+csum=
+ctime=1238692010
+host=127.0.0.1
+name=Site.TabMenu
+rev=1
+targets=GROUPNAME.GROUPNAME,Site.PAGENAME
+text=* (:if group GROUPNAME:) %25here%25 (:ifend:) [[GROUPNAME/]]%0a* (:if name PAGENAME:) %25here%25 (:ifend:) [[PAGENAME]] 
+time=1238692010
+author:1238692010=Colin Powell
+diff:1238692010:1238692010:=1,2d0%0a%3c * (:if group GROUPNAME:) %25here%25 (:ifend:) [[GROUPNAME/]]%0a%3c * (:if name PAGENAME:) %25here%25 (:ifend:) [[PAGENAME]] %0a\ No newline at end of file%0a
+host:1238692010=127.0.0.1

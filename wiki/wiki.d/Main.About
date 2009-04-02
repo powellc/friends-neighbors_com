@@ -1,0 +1,15 @@
+version=pmwiki-2.2.0 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.8) Gecko/2009032711 Ubuntu/8.10 (intrepid) Firefox/3.0.8
+author=Colin Powell
+charset=ISO-8859-1
+csum=
+ctime=1238689951
+host=127.0.0.1
+name=Main.About
+rev=1
+targets=
+text=Friends-neighbors.com is operated on a volunteer basis by [[http://onecardinal.com|One Cardinal]], a web development and technology solutions business in Castine, Maine.
+time=1238689951
+author:1238689951=Colin Powell
+diff:1238689951:1238689951:=1d0%0a%3c Friends-neighbors.com is operated on a volunteer basis by [[http://onecardinal.com|One Cardinal]], a web development and technology solutions business in Castine, Maine.%0a\ No newline at end of file%0a
+host:1238689951=127.0.0.1

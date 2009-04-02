@@ -1,0 +1,61 @@
+CIS-Dept. Plain Skin for PmWiki 2
+=================================
+INSTALL.txt
+
+This skin installs in two easy steps:
+1) Put the files in the correct location.
+2) Configure PmWiki to use the skin with some lines in the
+   local configuration file.
+
+
+Step 1 - Copy files.
+--------------------
+Copy the plain/ directory to your wiki's pub/skins/ directory.
+
+
+Step 2 - Edit local configuration file.
+---------------------------------------
+The following lines go in your local/config.php local configuration
+file.
+
+## Use the CIS-Dept. Plain Skin.
+$Skin = 'plain';
+
+If you don't have a local/config.php yet you'll need to create one.
+Make sure that "<?php" is the very first line, with no leading spaces.
+You don't need a closing "?>". Here's an example local/config.php:
+
+<?php if (!defined('PmWiki')) exit();
+## Title of this wiki
+$WikiTitle = 'My Site';
+
+## Use the CIS-Dept. Plain Skin.
+$Skin = 'plain';
+
+## Set administrative and edit passwords.
+$DefaultPasswords['admin'] = '$1$xNI5oUI9$vQtoUEMmyYUfYGWX3msvJ/';
+$DefaultPasswords['edit']  = '$1$/SnWxwWp$AnX/biQACqM9VtCnVrdcK.';
+
+## Require Author Name to save an edited page.
+$EnablePostAuthorRequired = 1;
+
+## Keep read-protected pages from appearing in search results.
+$EnablePageListProtect = 1;
+
+## Require approval of links to external sites.
+include_once('scripts/urlapprove.php');
+$UnapprovedLinkCountMax = 10;
+
+## Enable RSS and Atom web feeds.
+if ($action == 'rss' || $action == 'atom') {
+include_once("scripts/feeds.php"); }
+
+## Enable ?action=refcount for finding missing and orphaned pages.
+if ($action == 'refcount') {
+  $HandleAuth['refcount'] = 'edit';
+  include_once('scripts/refcount.php'); }
+
+
+Enjoy!
+
+-Hagan Fox

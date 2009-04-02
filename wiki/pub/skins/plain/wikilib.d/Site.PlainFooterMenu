@@ -1,0 +1,7 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+author=HaganFox
+name=Site.PlainFooterMenu
+targets=Site.AllRecentChanges,Site.Search
+text=>>text-align=right%3c%3c%0a%25rel=nofollow%25[[{*$FullName}?action=edit| $[Edit] ]] -%0a%25rel=nofollow%25[[{*$FullName}?action=diff| $[History] ]] -%0a%25newwin rel=nofollow%25[[{*$FullName}?action=print| $[Print] ]] -%0a%25rel=nofollow%25[[$[{*$Group}/RecentChanges]?action=browse| $[Recent Changes] ]]%0a%25rel=nofollow%25([[$[{$SiteGroup}/AllRecentChanges]| $[All] ]]) -%0a%25rel=nofollow%25[[$[{$SiteGroup}/Search]]]%0a>>%3c%3c
+ctime=1183246509
+time=1183246509
