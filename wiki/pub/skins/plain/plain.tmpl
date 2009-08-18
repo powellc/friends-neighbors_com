@@ -10,9 +10,8 @@
 <body>
 <!--PageHeaderFmt-->
  <table id='wikihead' cellspacing='0' cellpadding='0' align='center'><tr>
-  <td id='homelink'><a href='{$ScriptUrl}'>$WikiTitle</a></td>
-  <td id='location'><span class='pagegroup'><a href='{$ScriptUrl}/{$Group}'>{$Group}</a> &raquo;</span>
-  <h1 class='pagetitle'>{$Titlespaced}</h1></td>
+  <td id='homelink'><a href='{$ScriptUrl}'><img src="$CastinePubDir/img/castine-fn.jpg" title=$WikiTitle /></a></td>
+  </td>
   <td id='wikicmds'><!--wiki:{$Group}.PageActions {$SiteGroup}.PageActions--></td>
  </tr></table> 
 <!--/PageHeaderFmt-->
@@ -30,14 +29,25 @@
 <!--wiki:{$Group}.SideBar {$SiteGroup}.SideBar--></td>
 <!--/PageLeftFmt-->
     <td id='wikibody' valign='top'>
-<!--PageText-->
+    <!--PageText-->
     </td>
   </tr></table>$PlainBr
   <!--PageFooterFmt-->
  <table id='wikifoot' cellspacing='0' cellpadding='0' align='center'><tr>
+	
   <td class='lastmod'>$[Page last modified on {$LastModified}]</td>
   <td class='footnav'><!--wiki:{$Group}.PlainFooterMenu {$SiteGroup}.PlainFooterMenu--></td>
  </tr></table>
 <!--/PageFooterFmt-->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1986611-11");
+pageTracker._trackPageview();
+} catch(err) {}</script>
 </body>
 </html>

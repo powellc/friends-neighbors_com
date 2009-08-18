@@ -1,7 +1,7 @@
 <?php if (!defined('PmWiki')) exit();
 $WikiTitle = "Friends and Neighbors";
-$PageLogoUrl = "http://fn.rubyvroom.com/img/logo.png";
-$Skin = 'maguila';
+$PageLogoUrl = "http://friends-neighbors.com/img/logo.png";
+$Skin = 'pmwiki';
 
 $DefaultPasswords['admin'] = crypt('mainroot');
 $WikiSubTitle="";
