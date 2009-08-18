@@ -1,0 +1,15 @@
+version=pmwiki-2.2.0 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_4_11; en) AppleWebKit/528.16 (KHTML, like Gecko) Version/4.0 Safari/528.16
+author=Colin Powell
+charset=ISO-8859-1
+csum=
+ctime=1241463770
+host=127.0.0.1
+name=Calendar.20090509
+rev=1
+targets=Event.CastineGardenClubBigDig
+text=* [[Event/Castine Garden Club Big Dig]]
+time=1241463770
+author:1241463770=Colin Powell
+diff:1241463770:1241463770:=1d0%0a%3c * [[Event/Castine Garden Club Big Dig]]%0a\ No newline at end of file%0a
+host:1241463770=127.0.0.1

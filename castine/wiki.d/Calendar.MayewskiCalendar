@@ -1,0 +1,117 @@
+version=pmwiki-2.2.0 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.10) Gecko/2009042523 Ubuntu/9.04 (jaunty) Firefox/3.0.10
+author=Colin
+charset=ISO-8859-1
+csum=
+ctime=1241461308
+host=127.0.0.1
+name=Calendar.MayewskiCalendar
+rev=35
+targets=Calendar.20090505,Event.CAAIndependentDrawingAndPaintingGroup,Event.CastineWomensClubMeeting,Calendar.20090506,Event.DepartureOfTheStateOfMaine,Event.ChildrensKnittingGroup,Event.AnnualLasagnaDinner,Event.ChristianityTheFirst1000YearsFilmSeries,Calendar.20090509,Event.CastineGardenClubBigDig,Calendar.20090510,Event.MothersDay,Event.DowneastFleetRacingChampionshipRegatta,Event.MothersDayObservanceAtTrinitarianCongregationalParish,Calendar.20090511,Event.WitherleWIPSKnittingAndFiberArtsGroup,Event.RehearsalForCastineGala,Calendar.FullMayewskiCalendar
+text=! Lyn Mayweski's Castine Community Calendar%0aPlease note that this calendar was put together for my personal use to help with scheduling. While I think that the dates are correct, there may be mistakes, changes or additions.%0a%0aWatch the newspapers, etc. or call the group for confirmation.%0a%0a(:div style='float:right;width:95%25;border:4px double #bbbbbb;background-color:#ffffdd;':)%0a!%25center%25Upcoming Week Events%0a(:pmcal acals=MayweskiCalendar caltype=text monthsahead=1 expire=true stopafter=7 zebra=false textdatefmt='%25A, %25B %25e, %25Y' alwaystoday='true' :)%0a%0a%25center%25For all events, see the [[Calendar/Full Mayewski Calendar]].%0a%0a(:divend:)%0a%0a(:comment Do not edit this page.  Click on a date to edit. :)
+time=1241494389
+author:1241494389=Colin
+diff:1241494389:1241494364:=6c6%0a%3c (:div style='float:right;width:95%25;border:4px double #bbbbbb;background-color:#ffffdd;':)%0a---%0a> (:div style='float:right;width:95%25;border:4px double #bbbbbb;background-color:#ffffdd;padding=5px':)%0a
+host:1241494389=127.0.0.1
+author:1241494364=Colin
+diff:1241494364:1241494307:=6c6%0a%3c (:div style='float:right;width:95%25;border:4px double #bbbbbb;background-color:#ffffdd;padding=5px':)%0a---%0a> (:div style='float:right;width:95%25;border:4px double #bbbbbb;background-color:#ffffdd;':)%0a
+host:1241494364=127.0.0.1
+author:1241494307=Colin
+diff:1241494307:1241493692:=11d10%0a%3c %0a
+host:1241494307=127.0.0.1
+author:1241493692=Colin
+diff:1241493692:1241493657:=6c6%0a%3c (:div style='float:right;width:95%25;border:4px double #bbbbbb;background-color:#ffffdd;':)%0a---%0a> (:div style='float:right;width:100%25;border:4px double #bbbbbb;background-color:#ffffdd;':)%0a
+host:1241493692=127.0.0.1
+author:1241493657=Colin
+diff:1241493657:1241489088:=6c6%0a%3c (:div style='float:right;width:100%25;border:4px double #bbbbbb;background-color:#ffffdd;':)%0a---%0a> (:div style='float:right;width:60%25;border:4px double #bbbbbb;background-color:#ffffdd;':)%0a
+host:1241493657=127.0.0.1
+author:1241489088=Colin
+diff:1241489088:1241488940:=10c10%0a%3c %25center%25For all events, see the [[Calendar/Full Mayewski Calendar]].%0a---%0a> For all events, see the [[Calendar/Full Mayewski Calendar]].%0a
+host:1241489088=127.0.0.1
+author:1241488940=Colin
+diff:1241488940:1241464963:=6c6%0a%3c (:div style='float:right;width:60%25;border:4px double #bbbbbb;background-color:#ffffdd;':)%0a---%0a> (:div style='float:right;width:68%25;border:4px double #bbbbbb;background-color:#ffffdd;':)%0a
+host:1241488940=127.0.0.1
+author:1241464963=Colin Powell
+diff:1241464963:1241464834:=2,5d1%0a%3c Please note that this calendar was put together for my personal use to help with scheduling. While I think that the dates are correct, there may be mistakes, changes or additions.%0a%3c %0a%3c Watch the newspapers, etc. or call the group for confirmation.%0a%3c %0a
+host:1241464963=127.0.0.1
+author:1241464834=Colin Powell
+diff:1241464834:1241464676:=5,6d4%0a%3c %0a%3c For all events, see the [[Calendar/Full Mayewski Calendar]].%0a
+host:1241464834=127.0.0.1
+author:1241464676=Colin Powell
+diff:1241464676:1241464575:=4c4%0a%3c (:pmcal acals=MayweskiCalendar caltype=text monthsahead=1 expire=true stopafter=7 zebra=false textdatefmt='%25A, %25B %25e, %25Y' alwaystoday='true' :)%0a---%0a> (:pmcal acals=MayweskiCalendar caltype=text monthsahead=1 expire=true zebra=false textdatefmt='%25A, %25B %25e, %25Y' alwaystoday='true' :)%0a
+host:1241464676=127.0.0.1
+author:1241464575=Colin Powell
+diff:1241464575:1241464560:=4c4%0a%3c (:pmcal acals=MayweskiCalendar caltype=text monthsahead=1 expire=true zebra=false textdatefmt='%25A, %25B %25e, %25Y' alwaystoday='true' :)%0a---%0a> (:pmcal acals=MayweskiCalendar caltype=text monthsahead=1 expire=true zebra=true textdatefmt='%25A, %25B %25e, %25Y' alwaystoday='true' :)%0a
+host:1241464575=127.0.0.1
+author:1241464560=Colin Powell
+diff:1241464560:1241464528:=4c4%0a%3c (:pmcal acals=MayweskiCalendar caltype=text monthsahead=1 expire=true zebra=true textdatefmt='%25A, %25B %25e, %25Y' alwaystoday='true' :)%0a---%0a> (:pmcal acals=MayweskiCalendar caltype=text monthsahead=1 expire=true stopafter=12 zebra=false textdatefmt='%25A, %25B %25e, %25Y' alwaystoday='true' :)%0a
+host:1241464560=127.0.0.1
+author:1241464528=Colin Powell
+diff:1241464528:1241464520:=4c4%0a%3c (:pmcal acals=MayweskiCalendar caltype=text monthsahead=1 expire=true stopafter=12 zebra=false textdatefmt='%25A, %25B %25e, %25Y' alwaystoday='true' :)%0a---%0a> (:pmcal acals=MayweskiCalendar caltype=text monthsahead=1 expire=true stopafter=15 zebra=false textdatefmt='%25A, %25B %25e, %25Y' alwaystoday='true' :)%0a
+host:1241464528=127.0.0.1
+author:1241464520=Colin Powell
+diff:1241464520:1241463711:=4c4%0a%3c (:pmcal acals=MayweskiCalendar caltype=text monthsahead=1 expire=true stopafter=15 zebra=false textdatefmt='%25A, %25B %25e, %25Y' alwaystoday='true' :)%0a---%0a> (:pmcal acals=MayweskiCalendar caltype=text monthsahead=1 expire=true stopafter=7 zebra=false textdatefmt='%25A, %25B %25e, %25Y' alwaystoday='true' :)%0a
+host:1241464520=127.0.0.1
+author:1241463711=Colin Powell
+diff:1241463711:1241463701:=2c2%0a%3c (:div style='float:right;width:68%25;border:4px double #bbbbbb;background-color:#ffffdd;':)%0a---%0a> (:div style='float:right;width:68%25;border:2px double #bbbbbb;background-color:#ffffdd;':)%0a
+host:1241463711=127.0.0.1
+author:1241463701=Colin Powell
+diff:1241463701:1241463666:=2c2%0a%3c (:div style='float:right;width:68%25;border:2px double #bbbbbb;background-color:#ffffdd;':)%0a---%0a> (:div style='float:right;width:68%25;border:4px double #bbbbbb;background-color:#ffffdd;':)%0a
+host:1241463701=127.0.0.1
+author:1241463666=Colin Powell
+diff:1241463666:1241463658:=2c2%0a%3c (:div style='float:right;width:68%25;border:4px double #bbbbbb;background-color:#ffffdd;':)%0a---%0a> (:div style='float:right;width:60%25;border:4px double #bbbbbb;background-color:#ffffdd;':)%0a
+host:1241463666=127.0.0.1
+author:1241463658=Colin Powell
+diff:1241463658:1241463648:=2c2%0a%3c (:div style='float:right;width:60%25;border:4px double #bbbbbb;background-color:#ffffdd;':)%0a---%0a> (:div style='float:right;width:70%25;border:4px double #bbbbbb;background-color:#ffffdd;':)%0a
+host:1241463658=127.0.0.1
+author:1241463648=Colin Powell
+diff:1241463648:1241463618:=2,6d1%0a%3c (:div style='float:right;width:70%25;border:4px double #bbbbbb;background-color:#ffffdd;':)%0a%3c !%25center%25Upcoming Week Events%0a%3c (:pmcal acals=MayweskiCalendar caltype=text monthsahead=1 expire=true stopafter=7 zebra=false textdatefmt='%25A, %25B %25e, %25Y' alwaystoday='true' :)%0a%3c (:divend:)%0a%3c %0a
+host:1241463648=127.0.0.1
+author:1241463618=Colin Powell
+diff:1241463618:1241463551:=1c1%0a%3c ! Lyn Mayweski's Castine Community Calendar%0a---%0a> ! Castine Community Calendar%0a
+host:1241463618=127.0.0.1
+author:1241463551=Colin Powell
+diff:1241463551:1241463543:=1c1%0a%3c ! Castine Community Calendar%0a---%0a> !! Castine Community Calendar%0a
+host:1241463551=127.0.0.1
+author:1241463543=Colin Powell
+diff:1241463543:1241462105:=1c1%0a%3c !! Castine Community Calendar%0a---%0a> %0a
+host:1241463543=127.0.0.1
+author:1241462105=Colin Powell
+diff:1241462105:1241462070:=1c1%0a%3c %0a---%0a> (:pmcal styles=Calendar-Mini monthsahead=2 includes=false :)%0a
+host:1241462105=127.0.0.1
+author:1241462070=Colin Powell
+diff:1241462070:1241461882:=1c1%0a%3c (:pmcal styles=Calendar-Mini monthsahead=2 includes=false :)%0a---%0a> (:pmcal:)%0a
+host:1241462070=127.0.0.1
+author:1241461882=Colin Powell
+diff:1241461882:1241461804:=2c2%0a%3c (:comment Do not edit this page.  Click on a date to edit. :)%0a\ No newline at end of file%0a---%0a> (:comment placeholder:)%0a\ No newline at end of file%0a
+host:1241461882=127.0.0.1
+author:1241461804=Colin Powell
+diff:1241461804:1241461686:=1c1,2%0a%3c (:pmcal:)%0a---%0a> %0a> %0a
+host:1241461804=127.0.0.1
+author:1241461686=Colin Powell
+diff:1241461686:1241461677:=1c1,4%0a%3c %0a---%0a> (:div style='float:right;width:70%25;border:4px double #bbbbbb;background-color:#ffffdd;':)%0a> !%25center%25Upcoming Week Events%0a> (:pmcal acals=MayweskiCalendar caltype=text monthsahead=1 expire=true stopafter=7 zebra=false textdatefmt='%25A, %25B %25e, %25Y' alwaystoday='true' :)%0a> (:divend:)%0a
+host:1241461686=127.0.0.1
+author:1241461677=Colin Powell
+diff:1241461677:1241461657:=5a6%0a> (:pmcal styles=Calendar-Mini monthsahead=1 includes=false:)%0a
+host:1241461677=127.0.0.1
+author:1241461657=Colin Powell
+diff:1241461657:1241461619:=3c3%0a%3c (:pmcal acals=MayweskiCalendar caltype=text monthsahead=1 expire=true stopafter=7 zebra=false textdatefmt='%25A, %25B %25e, %25Y' alwaystoday='true' :)%0a---%0a> (:pmcal styles=PmCal acals=Cjc caltype=text monthsahead=1 expire=true stopafter=7 zebra=false textdatefmt='%25A, %25B %25e, %25Y' alwaystoday='true' :)%0a
+host:1241461657=127.0.0.1
+author:1241461619=Colin Powell
+diff:1241461619:1241461494:=6c6%0a%3c (:pmcal styles=Calendar-Mini monthsahead=1 includes=false:)%0a---%0a> (:pmcal styles=PmCal-Mini monthsahead=1 includes=false:)%0a
+host:1241461619=127.0.0.1
+author:1241461494=Colin Powell
+diff:1241461494:1241461493:=
+host:1241461494=127.0.0.1
+author:1241461493=Colin Powell
+diff:1241461493:1241461467:=0a1%0a> %0a3c4%0a%3c (:pmcal styles=PmCal acals=Cjc caltype=text monthsahead=1 expire=true stopafter=7 zebra=false textdatefmt='%25A, %25B %25e, %25Y' alwaystoday='true' :)%0a---%0a> (:pmcal styles=PmCal-Mini acals=Cjc caltype=text monthsahead=2 expire=true stopafter=7 zebra=false textdatefmt='%25A, %25B %25e, %25Y' alwaystoday='true' :)%0a
+host:1241461493=127.0.0.1
+author:1241461467=Colin Powell
+diff:1241461467:1241461375:=1c1%0a%3c %0a---%0a> (:noleft:)%0a7c7%0a%3c (:pmcal styles=PmCal-Mini monthsahead=1 includes=false:)%0a---%0a> (:pmcal styles=PmCal-Mini monthsahead=2 includes=false:)%0a
+host:1241461467=127.0.0.1
+author:1241461375=Colin Powell
+diff:1241461375:1241461308:=1,7d0%0a%3c (:noleft:)%0a%3c (:div style='float:right;width:70%25;border:4px double #bbbbbb;background-color:#ffffdd;':)%0a%3c !%25center%25Upcoming Week Events%0a%3c (:pmcal styles=PmCal-Mini acals=Cjc caltype=text monthsahead=2 expire=true stopafter=7 zebra=false textdatefmt='%25A, %25B %25e, %25Y' alwaystoday='true' :)%0a%3c (:divend:)%0a%3c %0a%3c (:pmcal styles=PmCal-Mini monthsahead=2 includes=false:)%0a
+host:1241461375=127.0.0.1
+author:1241461308=Colin Powell
+diff:1241461308:1241461308:=1d0%0a%3c (:comment placeholder:)%0a\ No newline at end of file%0a
+host:1241461308=127.0.0.1

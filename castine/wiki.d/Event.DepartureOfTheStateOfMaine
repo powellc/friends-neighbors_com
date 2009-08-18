@@ -1,0 +1,21 @@
+version=pmwiki-2.2.0 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.8) Gecko/2009032608 Firefox/3.0.8
+author=Colin Powell
+charset=ISO-8859-1
+csum=
+ctime=1241462345
+host=127.0.0.1
+name=Event.DepartureOfTheStateOfMaine
+rev=3
+targets=
+text=! Departure of the State of Maine%0a%0aLeaves sometime around 10:30 a.m. from the MMA dock. %0a%0aFor more information about the cruise, visit: [[http://news.mainemaritime.edu/articles.php?id=255]]%0a%0a
+time=1241583344
+author:1241583344=Colin Powell
+diff:1241583344:1241462371:=1,2d0%0a%3c ! Departure of the State of Maine%0a%3c %0a
+host:1241583344=127.0.0.1
+author:1241462371=Colin Powell
+diff:1241462371:1241462345:=3c3%0a%3c For more information about the cruise, visit: [[http://news.mainemaritime.edu/articles.php?id=255]]%0a---%0a> For more information about the cruise, visit: [[http://news.mainemaritime.edu/articles.php?id=160]]%0a
+host:1241462371=127.0.0.1
+author:1241462345=Colin Powell
+diff:1241462345:1241462345:=1,4d0%0a%3c Leaves sometime around 10:30 a.m. from the MMA dock. %0a%3c %0a%3c For more information about the cruise, visit: [[http://news.mainemaritime.edu/articles.php?id=160]]%0a%3c %0a
+host:1241462345=127.0.0.1

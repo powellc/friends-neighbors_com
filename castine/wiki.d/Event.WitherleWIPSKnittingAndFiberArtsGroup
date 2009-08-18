@@ -1,0 +1,15 @@
+version=pmwiki-2.2.0 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_4_11; en) AppleWebKit/528.16 (KHTML, like Gecko) Version/4.0 Safari/528.16
+author=Colin Powell
+charset=ISO-8859-1
+csum=
+ctime=1241464206
+host=127.0.0.1
+name=Event.WitherleWIPSKnittingAndFiberArtsGroup
+rev=1
+targets=
+text=! Witherle WIPS%0a!! A knitting and fiber arts group%0a%0a10 a.m. - 12 p.m. at Witherle Memorial Library every Monday.%0a%0aFor more information, contact Carolyn Ulrich
+time=1241464206
+author:1241464206=Colin Powell
+diff:1241464206:1241464206:=1,6d0%0a%3c ! Witherle WIPS%0a%3c !! A knitting and fiber arts group%0a%3c %0a%3c 10 a.m. - 12 p.m. at Witherle Memorial Library every Monday.%0a%3c %0a%3c For more information, contact Carolyn Ulrich%0a\ No newline at end of file%0a
+host:1241464206=127.0.0.1

@@ -1,0 +1,76 @@
+version=pmwiki-2.2.0 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.10) Gecko/2009042523 Ubuntu/9.04 (jaunty) Firefox/3.0.10
+author=Colin
+charset=ISO-8859-1
+csum=
+ctime=1241461322
+host=127.0.0.1
+name=Calendar.GroupFooter
+rev=21
+targets=Calendar.Calendar,Calendar.20090501,Calendar.20090502,Calendar.20090503,Calendar.20090504,Calendar.20090505,Calendar.20090506,Calendar.20090507,Calendar.20090508,Calendar.20090509,Calendar.20090510,Calendar.20090511,Calendar.20090512,Calendar.20090513,Calendar.20090514,Calendar.20090515,Calendar.20090516,Calendar.20090517,Calendar.20090518,Calendar.20090519,Calendar.20090520,Calendar.20090521,Calendar.20090522,Calendar.20090523,Calendar.20090524,Calendar.20090525,Calendar.20090526,Calendar.20090527,Calendar.20090528,Calendar.20090529,Calendar.20090530,Calendar.20090531,Calendar.20090601,Calendar.20090602,Calendar.20090603,Calendar.20090604,Calendar.20090605,Calendar.20090606,Calendar.20090607,Calendar.20090608,Calendar.20090609,Calendar.20090610,Calendar.20090611,Calendar.20090612,Calendar.20090613,Calendar.20090614,Calendar.20090615,Calendar.20090616,Calendar.20090617,Calendar.20090618,Calendar.20090619,Calendar.20090620,Calendar.20090621,Calendar.20090622,Calendar.20090623,Calendar.20090624,Calendar.20090625,Calendar.20090626,Calendar.20090627,Calendar.20090628,Calendar.20090629,Calendar.20090630,Calendar.20090701,Calendar.20090702,Calendar.20090703,Calendar.20090704,Calendar.20090705,Calendar.20090706,Calendar.20090707,Calendar.20090708,Calendar.20090709,Calendar.20090710,Calendar.20090711,Calendar.20090712,Calendar.20090713,Calendar.20090714,Calendar.20090715,Calendar.20090716,Calendar.20090717,Calendar.20090718,Calendar.20090719,Calendar.20090720,Calendar.20090721,Calendar.20090722,Calendar.20090723,Calendar.20090724,Calendar.20090725,Calendar.20090726,Calendar.20090727,Calendar.20090728,Calendar.20090729,Calendar.20090730,Calendar.20090731
+text=(:div style='clear:both':)%0a!! Adding events%0aEvents with boxes around their numbers have events. To add a new event, click on the day. If it's the first event on that day, you will have an edit screen. Go ahead and add a bullet (*) and a link in double brackets that begins with "Event/" From there, add your event detail. For more information, contact Colin at [[mailto:colin.powell@me.com]].%0a%0a(:pmcal styles=Calendar monthsahead=2  includes=false:)%0a%0a(:title {$PmCalDName: %25A, %25h %25d, %25Y }:)%0a(:divend:)
+time=1241494288
+title=Calendar.GroupFooter
+author:1241494288=Colin
+diff:1241494288:1241494255:=2c2%0a%3c !! Adding events%0a---%0a> %0a
+host:1241494288=127.0.0.1
+author:1241494255=Colin
+diff:1241494255:1241494218:=2d1%0a%3c %0a4d2%0a%3c %0a
+host:1241494255=127.0.0.1
+author:1241494218=Colin
+diff:1241494218:1241494019:=2d1%0a%3c Events with boxes around their numbers have events. To add a new event, click on the day. If it's the first event on that day, you will have an edit screen. Go ahead and add a bullet (*) and a link in double brackets that begins with "Event/" From there, add your event detail. For more information, contact Colin at [[mailto:colin.powell@me.com]].%0a
+host:1241494218=127.0.0.1
+author:1241494019=Colin
+diff:1241494019:1241493859:=2,4c2%0a%3c (:pmcal styles=Calendar monthsahead=2  includes=false:)%0a%3c %0a%3c (:title {$PmCalDName: %25A, %25h %25d, %25Y }:)%0a---%0a> (:pmcal styles=Calendar monthsahead=2  includes=true:)%0a
+host:1241494019=127.0.0.1
+author:1241493859=Colin
+diff:1241493859:1241493843:=2c2%0a%3c (:pmcal styles=Calendar monthsahead=2  includes=true:)%0a---%0a> (:pmcal styles=Calendar monthsahead=2  includes=false:)%0a
+host:1241493859=127.0.0.1
+author:1241493843=Colin
+diff:1241493843:1241493735:=2c2%0a%3c (:pmcal styles=Calendar monthsahead=2  includes=false:)%0a---%0a> (:pmcal styles=Calendar-Mini  includes=false:)%0a
+host:1241493843=127.0.0.1
+author:1241493735=Colin
+diff:1241493735:1241493619:=3c3%0a%3c (:divend:)%0a\ No newline at end of file%0a---%0a> (:div:)%0a\ No newline at end of file%0a
+host:1241493735=127.0.0.1
+author:1241493619=Colin
+diff:1241493619:1241493600:=2c2%0a%3c (:pmcal styles=Calendar-Mini  includes=false:)%0a---%0a> (:pmcal styles=Calendar-Mini monthsahead=1 includes=false:)%0a
+host:1241493619=127.0.0.1
+author:1241493600=Colin
+diff:1241493600:1241493585:=3c3%0a%3c (:div:)%0a\ No newline at end of file%0a---%0a> (:enddiv:)%0a\ No newline at end of file%0a
+host:1241493600=127.0.0.1
+author:1241493585=Colin
+diff:1241493585:1241490596:=1,3c1%0a%3c (:div style='clear:both':)%0a%3c (:pmcal styles=Calendar-Mini monthsahead=1 includes=false:)%0a%3c (:enddiv:)%0a\ No newline at end of file%0a---%0a> (:pmcal styles=Calendar-Mini monthsahead=2 includes=false:)%0a\ No newline at end of file%0a
+host:1241493585=127.0.0.1
+author:1241490596=Colin
+diff:1241490596:1241489828:=1c1%0a%3c (:pmcal styles=Calendar-Mini monthsahead=2 includes=false:)%0a\ No newline at end of file%0a---%0a> (:pmcal :)%0a\ No newline at end of file%0a
+host:1241490596=127.0.0.1
+author:1241489828=Colin
+diff:1241489828:1241489176:=1c1,3%0a%3c (:pmcal :)%0a\ No newline at end of file%0a---%0a> (:div style='float:left;width:20%25; border:1px solid red':)%0a> (:pmcal styles=Calendar-Mini monthsahead=1 includes=false:)%0a> (:divend:)%0a\ No newline at end of file%0a
+host:1241489828=127.0.0.1
+author:1241489176=Colin
+diff:1241489176:1241489158:=2c2%0a%3c (:pmcal styles=Calendar-Mini monthsahead=1 includes=false:)%0a---%0a> (:pmcal styles=Calendar-Mini monthsahead=2 includes=false:)%0a
+host:1241489176=127.0.0.1
+author:1241489158=Colin
+diff:1241489158:1241489138:=1c1%0a%3c (:div style='float:left;width:20%25; border:1px solid red':)%0a---%0a> (:div style='float:left;width:20%25;':)%0a
+host:1241489158=127.0.0.1
+author:1241489138=Colin
+diff:1241489138:1241463639:=1c1,2%0a%3c (:div style='float:left;width:20%25;':)%0a---%0a> %0a> %0a3d3%0a%3c (:divend:)%0a\ No newline at end of file%0a
+host:1241489138=127.0.0.1
+author:1241463639=Colin Powell
+diff:1241463639:1241462122:=1c1,4%0a%3c %0a---%0a> (:div style='float:right;width:70%25;border:4px double #bbbbbb;background-color:#ffffdd;':)%0a> !%25center%25Upcoming Week Events%0a> (:pmcal acals=MayweskiCalendar caltype=text monthsahead=1 expire=true stopafter=7 zebra=false textdatefmt='%25A, %25B %25e, %25Y' alwaystoday='true' :)%0a> (:divend:)%0a
+host:1241463639=127.0.0.1
+author:1241462122=Colin Powell
+diff:1241462122:1241462094:=4,5c4%0a%3c (:divend:)%0a%3c %0a---%0a> %0a6a6%0a> (:divend:)%0a\ No newline at end of file%0a
+host:1241462122=127.0.0.1
+author:1241462094=Colin Powell
+diff:1241462094:1241461786:=4,5d3%0a%3c %0a%3c (:pmcal styles=Calendar-Mini monthsahead=2 includes=false:)%0a
+host:1241462094=127.0.0.1
+author:1241461786=Colin Powell
+diff:1241461786:1241461694:=
+host:1241461786=127.0.0.1
+author:1241461694=Colin Powell
+diff:1241461694:1241461322:=1,4c1%0a%3c (:div style='float:right;width:70%25;border:4px double #bbbbbb;background-color:#ffffdd;':)%0a%3c !%25center%25Upcoming Week Events%0a%3c (:pmcal acals=MayweskiCalendar caltype=text monthsahead=1 expire=true stopafter=7 zebra=false textdatefmt='%25A, %25B %25e, %25Y' alwaystoday='true' :)%0a%3c (:divend:)%0a\ No newline at end of file%0a---%0a> (:pmcal:)%0a\ No newline at end of file%0a
+host:1241461694=127.0.0.1
+author:1241461322=Colin Powell
+diff:1241461322:1241461322:=1d0%0a%3c (:pmcal:)%0a\ No newline at end of file%0a
+host:1241461322=127.0.0.1

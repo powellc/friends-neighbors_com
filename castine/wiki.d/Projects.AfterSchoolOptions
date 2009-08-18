@@ -1,0 +1,20 @@
+version=pmwiki-2.2.0 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.8) Gecko/2009032711 Ubuntu/8.10 (intrepid) Firefox/3.0.8
+author=Colin Powell
+charset=ISO-8859-1
+csum=Added proposed tag
+ctime=1239074843
+host=127.0.0.1
+name=Projects.AfterSchoolOptions
+rev=2
+targets=Projects.Proposed,Profiles.AnneRomans
+text=! After school options ([[Projects/Proposed]])%0a%0aAt our last March meeting, [[Profiles/Anne Romans]] noted that the library is currently in a battle with policy regarding computer usage. She said the library often becomes a defacto child care center for kids too old for Otter House but with nowhere else to go after school lets out at 2:30 p.m. and when their parents get off work around 4 or 5.%0a%0aShe emphasized that she has no problem with the kids being in the library, and in fact likes the idea of them being there, but wonders about solutions to the problem of kids using the computers and generally being loud and disruptive in the library.%0a%0aAt the first April meeting, she reported that the library has been having success with new policies that set time limits kids can be on the computers. It still doesn't solve the problem of kids having little to do. Of course they could always read, but they don't seem interested in that.%0a%0aColin is interested in this project, and wonders if there could be some way to do an Explorer's Club in Castine mixed with some other after school activities.%0a%0a!! Task force%0a* Nobody
+time=1239074866
+author:1239074866=Colin Powell
+csum:1239074866=Added proposed tag
+diff:1239074866:1239074843:=1c1%0a%3c ! After school options ([[Projects/Proposed]])%0a---%0a> ! After school options%0a
+host:1239074866=127.0.0.1
+author:1239074843=Colin Powell
+csum:1239074843=Created
+diff:1239074843:1239074843:=1,12d0%0a%3c ! After school options%0a%3c %0a%3c At our last March meeting, [[Profiles/Anne Romans]] noted that the library is currently in a battle with policy regarding computer usage. She said the library often becomes a defacto child care center for kids too old for Otter House but with nowhere else to go after school lets out at 2:30 p.m. and when their parents get off work around 4 or 5.%0a%3c %0a%3c She emphasized that she has no problem with the kids being in the library, and in fact likes the idea of them being there, but wonders about solutions to the problem of kids using the computers and generally being loud and disruptive in the library.%0a%3c %0a%3c At the first April meeting, she reported that the library has been having success with new policies that set time limits kids can be on the computers. It still doesn't solve the problem of kids having little to do. Of course they could always read, but they don't seem interested in that.%0a%3c %0a%3c Colin is interested in this project, and wonders if there could be some way to do an Explorer's Club in Castine mixed with some other after school activities.%0a%3c %0a%3c !! Task force%0a%3c * Nobody%0a\ No newline at end of file%0a
+host:1239074843=127.0.0.1

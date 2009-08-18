@@ -1,0 +1,21 @@
+version=pmwiki-2.2.0 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; en-us) AppleWebKit/528.18.1 (KHTML, like Gecko) Version/4.0 Safari/528.17
+author=Colin Powell
+charset=ISO-8859-1
+csum=
+ctime=1243048919
+host=127.0.0.1
+name=Event.CAAIndependentDrawingPaintingGroup
+rev=3
+targets=Calendar.CommunityCalendar
+text=! Castine Community Event%0a%0a!! CAA Independent Drawing / Painting Group%0a%0aTuesdays: May 26, June 2, June 9, June 16, June 23%0a%0aFrom 9:30a - 12:30p at Trinity Episcopal Church.%0a%0aFor more information contact Alice Kimball (x0586) or visit [[http://castinearts.org]].%0a%0a[[Calendar/Community Calendar|Back to the calendar]]
+time=1243380553
+author:1243380553=Colin Powell
+diff:1243380553:1243049075:=1,4c1,2%0a%3c ! Castine Community Event%0a%3c %0a%3c !! CAA Independent Drawing / Painting Group%0a%3c %0a---%0a> ! CAA Independent Drawing / Painting Group%0a> %0a6a5%0a> %0a9,11c8%0a%3c For more information contact Alice Kimball (x0586) or visit [[http://castinearts.org]].%0a%3c %0a%3c [[Calendar/Community Calendar|Back to the calendar]]%0a\ No newline at end of file%0a---%0a> For more information contact Alice Kimball (x0586) or visit [[http://castinearts.org]].%0a\ No newline at end of file%0a
+host:1243380553=127.0.0.1
+author:1243049075=Colin Powell
+diff:1243049075:1243048919:=3,6c3%0a%3c Tuesdays: May 26, June 2, June 9, June 16, June 23%0a%3c %0a%3c %0a%3c From 9:30a - 12:30p at Trinity Episcopal Church.%0a---%0a> Tuesday, June 2 from 9:30a - 12:30p at Trinity Episcopal Church.%0a
+host:1243049075=127.0.0.1
+author:1243048919=Colin Powell
+diff:1243048919:1243048919:=1,5d0%0a%3c ! CAA Independent Drawing / Painting Group%0a%3c %0a%3c Tuesday, June 2 from 9:30a - 12:30p at Trinity Episcopal Church.%0a%3c %0a%3c For more information contact Alice Kimball (x0586) or visit [[http://castinearts.org]].%0a\ No newline at end of file%0a
+host:1243048919=127.0.0.1

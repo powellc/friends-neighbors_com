@@ -1,0 +1,21 @@
+version=pmwiki-2.2.0 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; en-us) AppleWebKit/528.16 (KHTML, like Gecko) Version/4.0 Safari/528.16
+author=Colin Powell
+charset=ISO-8859-1
+csum=
+ctime=1243048668
+host=127.0.0.1
+name=Calendar.20090525
+rev=3
+targets=Events.MemorialDayParadeInCastine,Event.RehearsalForCastineGala
+text=* MEMORIAL DAY%0a* 10a [[Events/Memorial Day Parade in Castine]]%0a* 7p [[Event/Rehearsal for Castine Gala]]
+time=1243049396
+author:1243049396=Colin Powell
+diff:1243049396:1243048755:=1,3c1,3%0a%3c * MEMORIAL DAY%0a%3c * 10a [[Events/Memorial Day Parade in Castine]]%0a%3c * 7p [[Event/Rehearsal for Castine Gala]]%0a\ No newline at end of file%0a---%0a> * Memorial Day%0a> * [[Events/Memorial Day Parade in Castine]]%0a> * [[Event/Rehearsal for Castine Gala]]%0a\ No newline at end of file%0a
+host:1243049396=127.0.0.1
+author:1243048755=Colin Powell
+diff:1243048755:1243048668:=3c3%0a%3c * [[Event/Rehearsal for Castine Gala]]%0a\ No newline at end of file%0a---%0a> * [[Events/Rehearsal for Castine Gala]]%0a\ No newline at end of file%0a
+host:1243048755=127.0.0.1
+author:1243048668=Colin Powell
+diff:1243048668:1243048668:=1,3d0%0a%3c * Memorial Day%0a%3c * [[Events/Memorial Day Parade in Castine]]%0a%3c * [[Events/Rehearsal for Castine Gala]]%0a\ No newline at end of file%0a
+host:1243048668=127.0.0.1

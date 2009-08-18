@@ -1,0 +1,19 @@
+version=pmwiki-2.2.0 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.4; en-US; rv:1.9.0.6) Gecko/2009011912 Firefox/3.0.6
+author=Colin Powell
+charset=ISO-8859-1
+csum=
+ctime=1239991481
+host=127.0.0.1
+name=Groups.BrooksvilleFN
+rev=2
+targets=
+text=! Brooksville Friends and Neighbors%0a%0a* Contact: Joan Holmberg%0a* Meeting time: First Wednesday of the month, at ?? p.m.%0a%0a!! The Brooksville Breeze, newsletter%0a* [[Attach:bville_breeze_spring_2009.pdf|Spring 2009 (PDF)]]
+time=1239991706
+author:1239991706=Colin Powell
+diff:1239991706:1239991481:=7c7%0a%3c * [[Attach:bville_breeze_spring_2009.pdf|Spring 2009 (PDF)]]%0a\ No newline at end of file%0a---%0a> * ([[Attach:bville_breeze_spring_2009.pdf|Spring 2009 (PDF)]])%0a\ No newline at end of file%0a
+host:1239991706=127.0.0.1
+author:1239991481=Colin Powell
+csum:1239991481=Created
+diff:1239991481:1239991481:=1,7d0%0a%3c ! Brooksville Friends and Neighbors%0a%3c %0a%3c * Contact: Joan Holmberg%0a%3c * Meeting time: First Wednesday of the month, at ?? p.m.%0a%3c %0a%3c !! The Brooksville Breeze, newsletter%0a%3c * ([[Attach:bville_breeze_spring_2009.pdf|Spring 2009 (PDF)]])%0a\ No newline at end of file%0a
+host:1239991481=127.0.0.1

@@ -1,0 +1,15 @@
+version=pmwiki-2.2.0 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_4_11; en) AppleWebKit/528.16 (KHTML, like Gecko) Version/4.0 Safari/528.16
+author=Colin Powell
+charset=ISO-8859-1
+csum=
+ctime=1241464279
+host=127.0.0.1
+name=Event.RehearsalForCastineGala
+rev=1
+targets=
+text=! Rehearsal for Castine Gala%0a%0aEvery Monday night until July 23.
+time=1241464279
+author:1241464279=Colin Powell
+diff:1241464279:1241464279:=1,3d0%0a%3c ! Rehearsal for Castine Gala%0a%3c %0a%3c Every Monday night until July 23.%0a\ No newline at end of file%0a
+host:1241464279=127.0.0.1

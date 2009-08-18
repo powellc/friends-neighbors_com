@@ -1,0 +1,18 @@
+version=pmwiki-2.2.0 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; en-us) AppleWebKit/528.16 (KHTML, like Gecko) Version/4.0 Safari/528.16
+author=Colin Powell
+charset=ISO-8859-1
+csum=
+ctime=1243048807
+host=127.0.0.1
+name=Calendar.20090526
+rev=2
+targets=Event.MensDayAtCastineGolfCourse,Event.CAAIndependentDrawingPaintingGroup
+text=* 9a [[Event/Mens Day at Castine Golf Course]]%0a* 9:30a-12:30p [[Event/CAA Independent Drawing Painting Group]]
+time=1243049334
+author:1243049334=Colin Powell
+diff:1243049334:1243048807:=1,2c1,2%0a%3c * 9a [[Event/Mens Day at Castine Golf Course]]%0a%3c * 9:30a-12:30p [[Event/CAA Independent Drawing Painting Group]]%0a\ No newline at end of file%0a---%0a> * [[Event/G Men's Day|G: Men's Day]]%0a> * [[Event/CAA Independent Drawing Painting Group]]%0a\ No newline at end of file%0a
+host:1243049334=127.0.0.1
+author:1243048807=Colin Powell
+diff:1243048807:1243048807:=1,2d0%0a%3c * [[Event/G Men's Day|G: Men's Day]]%0a%3c * [[Event/CAA Independent Drawing Painting Group]]%0a\ No newline at end of file%0a
+host:1243048807=127.0.0.1

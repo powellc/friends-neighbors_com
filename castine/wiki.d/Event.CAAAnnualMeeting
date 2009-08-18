@@ -1,0 +1,15 @@
+version=pmwiki-2.2.0 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; en-us) AppleWebKit/528.16 (KHTML, like Gecko) Version/4.0 Safari/528.16
+author=Colin Powell
+charset=ISO-8859-1
+csum=
+ctime=1243049711
+host=127.0.0.1
+name=Event.CAAAnnualMeeting
+rev=1
+targets=
+text=! Castine Arts Association Annual Meeting%0a%0aProgram: "Concrete Poetry"%0a%0a5p - Social hour, meeting and program%0a6:30 - Optional buffet dinner%0a%0aReservations for dinner only: x4861
+time=1243049711
+author:1243049711=Colin Powell
+diff:1243049711:1243049711:=1,8d0%0a%3c ! Castine Arts Association Annual Meeting%0a%3c %0a%3c Program: "Concrete Poetry"%0a%3c %0a%3c 5p - Social hour, meeting and program%0a%3c 6:30 - Optional buffet dinner%0a%3c %0a%3c Reservations for dinner only: x4861%0a\ No newline at end of file%0a
+host:1243049711=127.0.0.1

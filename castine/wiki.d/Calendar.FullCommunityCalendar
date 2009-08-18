@@ -1,0 +1,15 @@
+version=pmwiki-2.2.0 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_4_11; en) AppleWebKit/528.16 (KHTML, like Gecko) Version/4.0 Safari/528.16
+author=Colin Powell
+charset=ISO-8859-1
+csum=
+ctime=1241546075
+host=127.0.0.1
+name=Calendar.FullCommunityCalendar
+rev=1
+targets=Calendar.20090505,Event.CAAIndependentDrawingAndPaintingGroup,Event.CastineWomensClubMeeting,Calendar.20090506,Event.DepartureOfTheStateOfMaine,Event.ChildrensKnittingGroup,Event.AnnualLasagnaDinner,Event.ChristianityTheFirst1000YearsFilmSeries,Calendar.20090509,Event.CastineGardenClubBigDig,Calendar.20090510,Event.MothersDay,Event.DowneastFleetRacingChampionshipRegatta,Event.MothersDayObservanceAtTrinitarianCongregationalParish,Calendar.20090511,Event.WitherleWIPSKnittingAndFiberArtsGroup,Event.RehearsalForCastineGala,Calendar.20090512,Calendar.20090513,Event.BagaduceAmbulanceCorpsMeeting,Calendar.20090518,Calendar.20090530,Calendar.20090627
+text=! Full Castine Community Calendar%0a%0a(:div style='float:right;width:95%25;border:4px double #bbbbbb;background-color:#ffffdd;':)%0a!%25center%25Upcoming Week Events%0a(:pmcal acals=CommunityCalendar caltype=text monthsahead=1 expire=true zebra=false textdatefmt='%25A, %25B %25e, %25Y' alwaystoday='true' :)%0a(:divend:)%0a%0a(:comment Do not edit this page.  Click on a date to edit. :)
+time=1241546075
+author:1241546075=Colin Powell
+diff:1241546075:1241546075:=1,8d0%0a%3c ! Full Castine Community Calendar%0a%3c %0a%3c (:div style='float:right;width:95%25;border:4px double #bbbbbb;background-color:#ffffdd;':)%0a%3c !%25center%25Upcoming Week Events%0a%3c (:pmcal acals=CommunityCalendar caltype=text monthsahead=1 expire=true zebra=false textdatefmt='%25A, %25B %25e, %25Y' alwaystoday='true' :)%0a%3c (:divend:)%0a%3c %0a%3c (:comment Do not edit this page.  Click on a date to edit. :)%0a\ No newline at end of file%0a
+host:1241546075=127.0.0.1

@@ -1,0 +1,29 @@
+version=pmwiki-2.2.0 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.13) Gecko/2009080315 Linux Mint/7 (Gloria) Firefox/3.0.13
+author=Colin Powell
+charset=ISO-8859-1
+csum=Fix vandalism
+ctime=1241545873
+host=127.0.0.1
+name=Calendar.CommunityCalendar
+rev=5
+targets=
+text=
+time=1250018061
+author:1250018061=Colin Powell
+csum:1250018061=Fix vandalism
+diff:1250018061:1248971970:=0a1%0a> LGoCIc  %3ca href="http://frosnhtdeznu.com/">frosnhtdeznu%3c/a>, [url=http://atulsisnwajk.com/]atulsisnwajk[/url], [link=http://aagjojctbnas.com/]aagjojctbnas[/link], http://sljcfqgryptp.com/%0a\ No newline at end of file%0a
+host:1250018061=127.0.0.1
+author:1248971970=znizqkkoey
+csum:1248971970=FfbemGWPceKxgrIRcKn
+diff:1248971970:1241546043:=1c1,16%0a%3c LGoCIc  %3ca href="http://frosnhtdeznu.com/">frosnhtdeznu%3c/a>, [url=http://atulsisnwajk.com/]atulsisnwajk[/url], [link=http://aagjojctbnas.com/]aagjojctbnas[/link], http://sljcfqgryptp.com/%0a\ No newline at end of file%0a---%0a> ! Castine Community Calendar%0a> Please note that this calendar was put together for personal use by Lyn Mayewski to help with scheduling. While we think that the dates are correct, there may be mistakes, changes or additions.%0a> %0a> Watch the newspapers, etc. or call the group for confirmation.%0a> %0a> %0a> %0a> (:div style='float:right;width:95%25;border:4px double #bbbbbb;background-color:#ffffdd;':)%0a> !%25center%25Upcoming Week Events%0a> (:pmcal acals=CommunityCalendar caltype=text monthsahead=1 expire=true stopafter=7 zebra=false textdatefmt='%25A, %25B %25e, %25Y' alwaystoday='true' :)%0a> %0a> %25center%25For all events, see the [[Calendar/Full Community Calendar]].%0a> %0a> (:divend:)%0a> %0a> (:comment Do not edit this page.  Click on a date to edit. :)%0a\ No newline at end of file%0a
+host:1248971970=127.0.0.1
+author:1241546043=Colin Powell
+diff:1241546043:1241545986:=12c12%0a%3c %25center%25For all events, see the [[Calendar/Full Community Calendar]].%0a---%0a> %25center%25For all events, see the [[Calendar/Full Mayewski Calendar]].%0a
+host:1241546043=127.0.0.1
+author:1241545986=Colin Powell
+diff:1241545986:1241545873:=1,3c1,3%0a%3c ! Castine Community Calendar%0a%3c Please note that this calendar was put together for personal use by Lyn Mayewski to help with scheduling. While we think that the dates are correct, there may be mistakes, changes or additions.%0a%3c %0a---%0a> ! Lyn Mayweski's Castine Community Calendar%0a> Please note that this calendar was put together for my personal use to help with scheduling. While I think that the dates are correct, there may be mistakes, changes or additions.%0a> %0a6,7d5%0a%3c %0a%3c %0a10c8%0a%3c (:pmcal acals=CommunityCalendar caltype=text monthsahead=1 expire=true stopafter=7 zebra=false textdatefmt='%25A, %25B %25e, %25Y' alwaystoday='true' :)%0a---%0a> (:pmcal acals=MayweskiCalendar caltype=text monthsahead=1 expire=true stopafter=7 zebra=false textdatefmt='%25A, %25B %25e, %25Y' alwaystoday='true' :)%0a
+host:1241545986=127.0.0.1
+author:1241545873=Colin Powell
+diff:1241545873:1241545873:=1,14d0%0a%3c ! Lyn Mayweski's Castine Community Calendar%0a%3c Please note that this calendar was put together for my personal use to help with scheduling. While I think that the dates are correct, there may be mistakes, changes or additions.%0a%3c %0a%3c Watch the newspapers, etc. or call the group for confirmation.%0a%3c %0a%3c (:div style='float:right;width:95%25;border:4px double #bbbbbb;background-color:#ffffdd;':)%0a%3c !%25center%25Upcoming Week Events%0a%3c (:pmcal acals=MayweskiCalendar caltype=text monthsahead=1 expire=true stopafter=7 zebra=false textdatefmt='%25A, %25B %25e, %25Y' alwaystoday='true' :)%0a%3c %0a%3c %25center%25For all events, see the [[Calendar/Full Mayewski Calendar]].%0a%3c %0a%3c (:divend:)%0a%3c %0a%3c (:comment Do not edit this page.  Click on a date to edit. :)%0a\ No newline at end of file%0a
+host:1241545873=127.0.0.1

@@ -1,0 +1,30 @@
+# This is a changelog to PmWiki2PDF 
+---------------
+2005-10-10
+Implement a password verification !
+---------------
+2005-09-29
+Implement 3 methods pdf : -1- setBasePath, -2- UsePRE, -3- UseCSS
+Correct the element &ensp; returned by others Cookbooks
+---------------
+2005-08-21
+Redefine $HandleActions.
+---------------
+2005-08-20
+Implement breakpage feature !
+---------------
+2005-08-19
+Due a bad comprehensive element span, this is desactivate !
+---------------
+2005-08-16
+Add two variables (in script PmWiki2PDF.php) : 
+- MEMORY_LIMIT, MAX_EXECUTION_TIME
+
+And modify the FOOTER in (in script html2fpdf.php).
+---------------
+2005-08-12
+First Version : 
+* in script html2fpdf.php :
+- create the methode PutHREF() to modify FOOTER and include it the URL !
+
+* create the script PmWiki2PDF.php to translate the HTML Code PmWiki to PDF Document.

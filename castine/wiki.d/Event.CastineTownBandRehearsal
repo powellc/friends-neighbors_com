@@ -1,0 +1,15 @@
+version=pmwiki-2.2.0 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; en-us) AppleWebKit/528.16 (KHTML, like Gecko) Version/4.0 Safari/528.16
+author=Colin Powell
+charset=ISO-8859-1
+csum=
+ctime=1243049286
+host=127.0.0.1
+name=Event.CastineTownBandRehearsal
+rev=1
+targets=
+text=! Town Band Rehearsal%0a%0a4-5:30p at the Trinitarian Congregational Parish%0a%0aFor more information, contact Silas Yates, conductor.
+time=1243049286
+author:1243049286=Colin Powell
+diff:1243049286:1243049286:=1,5d0%0a%3c ! Town Band Rehearsal%0a%3c %0a%3c 4-5:30p at the Trinitarian Congregational Parish%0a%3c %0a%3c For more information, contact Silas Yates, conductor.%0a\ No newline at end of file%0a
+host:1243049286=127.0.0.1

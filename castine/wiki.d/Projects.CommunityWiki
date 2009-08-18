@@ -1,0 +1,15 @@
+version=pmwiki-2.2.0 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/530.19.2 (KHTML, like Gecko) Version/4.0.2 Safari/530.19
+author=Colin Powell
+charset=ISO-8859-1
+csum=
+ctime=1250025870
+host=127.0.0.1
+name=Projects.CommunityWiki
+rev=1
+targets=Projects.Proposed,Profiles.ColinPowell
+text=! Community Wiki ([[Projects/Proposed]])%0a%0a!! Overview%0aThe [[http://castine.me.us|Castine town website]] is quite handy. Unfortunately there are many things in the community that are not found there, really anything not municipal in nature. Special events will sometimes make it up, but what if a wiki could be maintained almost like a guide to the town?%0a%0a!! Notes%0a* None yet%0a%0a!! People involved%0a* [[Profiles/Colin Powell]]%0a%0a!! Documents%0aLink any documents related to the project here by adding the douments name to the link below and uploading it:%0a* [[Attach:NAME OF DOCUMENT]]
+time=1250025870
+author:1250025870=Colin Powell
+diff:1250025870:1250025870:=1,14d0%0a%3c ! Community Wiki ([[Projects/Proposed]])%0a%3c %0a%3c !! Overview%0a%3c The [[http://castine.me.us|Castine town website]] is quite handy. Unfortunately there are many things in the community that are not found there, really anything not municipal in nature. Special events will sometimes make it up, but what if a wiki could be maintained almost like a guide to the town?%0a%3c %0a%3c !! Notes%0a%3c * None yet%0a%3c %0a%3c !! People involved%0a%3c * [[Profiles/Colin Powell]]%0a%3c %0a%3c !! Documents%0a%3c Link any documents related to the project here by adding the douments name to the link below and uploading it:%0a%3c * [[Attach:NAME OF DOCUMENT]]%0a\ No newline at end of file%0a
+host:1250025870=127.0.0.1

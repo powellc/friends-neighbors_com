@@ -1,0 +1,22 @@
+version=pmwiki-2.2.0 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.8) Gecko/2009032711 Ubuntu/8.10 (intrepid) Firefox/3.0.8
+author=Colin Powell
+charset=ISO-8859-1
+csum=
+ctime=1239069428
+host=127.0.0.1
+name=Projects.IceSkatingRink
+rev=3
+targets=Projects.Inactive,Profiles.BetsyLieser,Profiles.SusanAdam
+text=! Ice Skating Rink ([[Projects/Inactive]])%0a%0a!! Overview%0aAn idea proposed at one of the first Castine FN meetings by [[Profiles/Betsy Lieser]] and [[Profiles/Susan Adam]]. They got much of the work done in a few weeks, which mostly involved getting the okay from the selectmen and finding someone to open the resevoir on Battle Avenue and clear snow. Unfortunately, the work was done just as conditions on the ice were getting poor. This project will be good to go next year, though.%0a%0a!! Task force%0a* [[Profiles/Betsy Lieser]]%0a* [[Profiles/Susan Adam]]
+time=1239070490
+author:1239070490=Colin Powell
+diff:1239070490:1239070315:=4,8c4%0a%3c An idea proposed at one of the first Castine FN meetings by [[Profiles/Betsy Lieser]] and [[Profiles/Susan Adam]]. They got much of the work done in a few weeks, which mostly involved getting the okay from the selectmen and finding someone to open the resevoir on Battle Avenue and clear snow. Unfortunately, the work was done just as conditions on the ice were getting poor. This project will be good to go next year, though.%0a%3c %0a%3c !! Task force%0a%3c * [[Profiles/Betsy Lieser]]%0a%3c * [[Profiles/Susan Adam]]%0a\ No newline at end of file%0a---%0a> An idea proposed at one of the first Castine FN meetings by [[Profiles/Betsy Lieser]] and [[Profiles/Susan Adam]]. They got much of the work done in a few weeks, which mostly involved getting the okay from the selectmen and finding someone to open the resevoir on Battle Avenue and clear snow. Unfortunately, the work was done just as conditions on the ice were getting poor. This project will be good to go next year, though.%0a\ No newline at end of file%0a
+host:1239070490=127.0.0.1
+author:1239070315=Colin Powell
+diff:1239070315:1239069428:=3d2%0a%3c !! Overview%0a
+host:1239070315=127.0.0.1
+author:1239069428=Colin Powell
+csum:1239069428=Created overview
+diff:1239069428:1239069428:=1,3d0%0a%3c ! Ice Skating Rink ([[Projects/Inactive]])%0a%3c %0a%3c An idea proposed at one of the first Castine FN meetings by [[Profiles/Betsy Lieser]] and [[Profiles/Susan Adam]]. They got much of the work done in a few weeks, which mostly involved getting the okay from the selectmen and finding someone to open the resevoir on Battle Avenue and clear snow. Unfortunately, the work was done just as conditions on the ice were getting poor. This project will be good to go next year, though.%0a\ No newline at end of file%0a
+host:1239069428=127.0.0.1

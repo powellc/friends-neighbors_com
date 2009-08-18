@@ -1,0 +1,15 @@
+version=pmwiki-2.2.0 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.8) Gecko/2009032711 Ubuntu/8.10 (intrepid) Firefox/3.0.8
+author=Colin Powell
+charset=ISO-8859-1
+csum=
+ctime=1238731935
+host=127.0.0.1
+name=People.ColinPowell
+rev=1
+targets=Projects.FarmersMarket
+text=! Colin Powell%0a%0a!! Info%0a* Title: Chair%0a* Phone: 326-1014%0a* Email: [[mailto:colin.powell@me.com|colin.powell@me.com]]%0a%0a!! Active in%0a* [[Projects/Farmers Market]]%0a
+time=1238731935
+author:1238731935=Colin Powell
+diff:1238731935:1238731935:=1,9d0%0a%3c ! Colin Powell%0a%3c %0a%3c !! Info%0a%3c * Title: Chair%0a%3c * Phone: 326-1014%0a%3c * Email: [[mailto:colin.powell@me.com|colin.powell@me.com]]%0a%3c %0a%3c !! Active in%0a%3c * [[Projects/Farmers Market]]%0a
+host:1238731935=127.0.0.1

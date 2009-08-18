@@ -1,0 +1,15 @@
+version=pmwiki-2.2.0 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; en-us) AppleWebKit/528.16 (KHTML, like Gecko) Version/4.0 Safari/528.16
+author=Colin Powell
+charset=ISO-8859-1
+csum=
+ctime=1243048711
+host=127.0.0.1
+name=Events.MemorialDayParadeInCastine
+rev=1
+targets=
+text=! Memorial Day Parade%0a%0aMonday, May 25 at 10 a.m.%0a%0aStarts at the town cemetery and concludes on the town dock.%0a%0aMusic by the Castine Town Band.
+time=1243048711
+author:1243048711=Colin Powell
+diff:1243048711:1243048711:=1,7d0%0a%3c ! Memorial Day Parade%0a%3c %0a%3c Monday, May 25 at 10 a.m.%0a%3c %0a%3c Starts at the town cemetery and concludes on the town dock.%0a%3c %0a%3c Music by the Castine Town Band.%0a\ No newline at end of file%0a
+host:1243048711=127.0.0.1

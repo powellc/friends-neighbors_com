@@ -1,0 +1,15 @@
+version=pmwiki-2.2.0 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_4_11; en) AppleWebKit/525.27.1 (KHTML, like Gecko) Version/3.2.1 Safari/525.27.1
+author=Colin Powell
+charset=ISO-8859-1
+csum=
+ctime=1245430228
+host=127.0.0.1
+name=Project.Template
+rev=1
+targets=Projects.STATUSHERE
+text=! PROJECT NAME HERE ([[Projects/STATUS HERE]])%0a%0a!! Overview%0aA brief overview should go here.%0a%0a!! Notes%0aAny notes we've gathered go here.%0a%0a!! People involved%0a* FICTIONAL PERSON, add names here in a list starting with asterisks.%0a%0a!! Documents%0aLink any documents related to the project here by adding the douments name to the link below and uploading it:%0a* [[Attach:NAME OF DOCUMENT]]
+time=1245430228
+author:1245430228=Colin Powell
+diff:1245430228:1245430228:=1,14d0%0a%3c ! PROJECT NAME HERE ([[Projects/STATUS HERE]])%0a%3c %0a%3c !! Overview%0a%3c A brief overview should go here.%0a%3c %0a%3c !! Notes%0a%3c Any notes we've gathered go here.%0a%3c %0a%3c !! People involved%0a%3c * FICTIONAL PERSON, add names here in a list starting with asterisks.%0a%3c %0a%3c !! Documents%0a%3c Link any documents related to the project here by adding the douments name to the link below and uploading it:%0a%3c * [[Attach:NAME OF DOCUMENT]]%0a\ No newline at end of file%0a
+host:1245430228=127.0.0.1

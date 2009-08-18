@@ -1,0 +1,18 @@
+version=pmwiki-2.2.0 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_4_11; en) AppleWebKit/528.16 (KHTML, like Gecko) Version/4.0 Safari/528.16
+author=Colin Powell
+charset=ISO-8859-1
+csum=
+ctime=1241462199
+host=127.0.0.1
+name=Event.CAAIndependentDrawingAndPaintingGroup
+rev=2
+targets=
+text=! Independent Drawing and Painting Group%0a!! Events%0a%0a!!! Tuesday, May 5 - 9:30 a.m. - 12:30 p.m.%0aFor more information, contact Lyn Mayewski - x8433%0a%0a!!! Tuesday, May 12 - 9:30 a.m. - 12:30 p.m.%0aAt Trinity Episcopal Church, for more information contact Alice Kimball - x0586%0a%0aFor more information on the series, please visit [[http://castinearts.org]]
+time=1241464464
+author:1241464464=Colin Powell
+diff:1241464464:1241462199:=1,10c1%0a%3c ! Independent Drawing and Painting Group%0a%3c !! Events%0a%3c %0a%3c !!! Tuesday, May 5 - 9:30 a.m. - 12:30 p.m.%0a%3c For more information, contact Lyn Mayewski - x8433%0a%3c %0a%3c !!! Tuesday, May 12 - 9:30 a.m. - 12:30 p.m.%0a%3c At Trinity Episcopal Church, for more information contact Alice Kimball - x0586%0a%3c %0a%3c For more information on the series, please visit [[http://castinearts.org]]%0a\ No newline at end of file%0a---%0a> For more information, contact Lyn Mayewski - x8433 or visit [[http://castinearts.org]]%0a\ No newline at end of file%0a
+host:1241464464=127.0.0.1
+author:1241462199=Colin Powell
+diff:1241462199:1241462199:=1d0%0a%3c For more information, contact Lyn Mayewski - x8433 or visit [[http://castinearts.org]]%0a\ No newline at end of file%0a
+host:1241462199=127.0.0.1

@@ -1,0 +1,15 @@
+version=pmwiki-2.2.0 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; en-us) AppleWebKit/528.16 (KHTML, like Gecko) Version/4.0 Safari/528.16
+author=Colin Powell
+charset=ISO-8859-1
+csum=
+ctime=1243048380
+host=127.0.0.1
+name=Events.SeventhSundayOfEasterAtTheTrinitarianCongregationalParish
+rev=1
+targets=
+text=! Seventh Sunday of Easter%0a%0aSunday, May 24%0a%0aAt the Trinitarian Congregational Parish with "Castine Brass," guest musicians.
+time=1243048380
+author:1243048380=Colin Powell
+diff:1243048380:1243048380:=1,5d0%0a%3c ! Seventh Sunday of Easter%0a%3c %0a%3c Sunday, May 24%0a%3c %0a%3c At the Trinitarian Congregational Parish with "Castine Brass," guest musicians.%0a\ No newline at end of file%0a
+host:1243048380=127.0.0.1

@@ -1,0 +1,15 @@
+version=pmwiki-2.2.0 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.1b4) Gecko/20090423 Firefox/3.5b4
+author=
+charset=ISO-8859-1
+csum=
+ctime=1244465424
+host=127.0.0.1
+name=Calendar.20090618
+rev=1
+targets=Events.CastineFriendsAndNeighborsMeeting
+text=* [[Events/Castine Friends and Neighbors Meeting]]
+time=1244465424
+author:1244465424=
+diff:1244465424:1244465424:=1d0%0a%3c * [[Events/Castine Friends and Neighbors Meeting]]%0a\ No newline at end of file%0a
+host:1244465424=127.0.0.1

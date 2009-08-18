@@ -1,0 +1,21 @@
+version=pmwiki-2.2.0 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; en-us) AppleWebKit/528.16 (KHTML, like Gecko) Version/4.0 Safari/528.16
+author=Colin Powell
+charset=ISO-8859-1
+csum=
+ctime=1243050178
+host=127.0.0.1
+name=Calendar.20090608
+rev=3
+targets=Event.WitherleWIPSKnittingAndFiberArtsGroup,Calendar.RehearsalForCastineGala
+text=* 10a-12p [[Event/Witherle WIPS: Knitting and fiber arts group]]%0a* 7p [[Rehearsal for Castine Gala]]%0a%0a
+time=1243050260
+author:1243050260=Colin Powell
+diff:1243050260:1243050224:=1c1%0a%3c * 10a-12p [[Event/Witherle WIPS: Knitting and fiber arts group]]%0a---%0a> * 10a-12p [[Witherle WIPS: Knitting and fiber arts group]]%0a
+host:1243050260=127.0.0.1
+author:1243050224=Colin Powell
+diff:1243050224:1243050178:=1,3c1,2%0a%3c * 10a-12p [[Witherle WIPS: Knitting and fiber arts group]]%0a%3c * 7p [[Rehearsal for Castine Gala]]%0a%3c %0a---%0a> * 10a-12p [[Witherle WIPS: knitting and fiber group]]%0a> * 7p [[Rehearsal for Castine Gala]]%0a\ No newline at end of file%0a
+host:1243050224=127.0.0.1
+author:1243050178=Colin Powell
+diff:1243050178:1243050178:=1,2d0%0a%3c * 10a-12p [[Witherle WIPS: knitting and fiber group]]%0a%3c * 7p [[Rehearsal for Castine Gala]]%0a\ No newline at end of file%0a
+host:1243050178=127.0.0.1

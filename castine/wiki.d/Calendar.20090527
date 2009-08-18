@@ -1,0 +1,18 @@
+version=pmwiki-2.2.0 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; en-us) AppleWebKit/528.16 (KHTML, like Gecko) Version/4.0 Safari/528.16
+author=Colin Powell
+charset=ISO-8859-1
+csum=
+ctime=1243049143
+host=127.0.0.1
+name=Calendar.20090527
+rev=2
+targets=Event.LadiesDayAtCastineGolfClub,Event.ChildrensKnittingGroup,Event.CastineTownBandRehearsal
+text=* 9a [[Event/Ladies Day at Castine Golf Club]]%0a* 2:15-3p[[Event/Children's Knitting Group]]%0a* 4-5:30p [[Event/Castine Town Band Rehearsal]]
+time=1243049372
+author:1243049372=Colin Powell
+diff:1243049372:1243049143:=1,3c1,3%0a%3c * 9a [[Event/Ladies Day at Castine Golf Club]]%0a%3c * 2:15-3p[[Event/Children's Knitting Group]]%0a%3c * 4-5:30p [[Event/Castine Town Band Rehearsal]]%0a\ No newline at end of file%0a---%0a> * [[Event/Ladies Day at Castine Golf Club]]%0a> * [[Event/Children's Knitting Group]]%0a> * [[Event/Castine Town Band Rehearsal]]%0a\ No newline at end of file%0a
+host:1243049372=127.0.0.1
+author:1243049143=Colin Powell
+diff:1243049143:1243049143:=1,3d0%0a%3c * [[Event/Ladies Day at Castine Golf Club]]%0a%3c * [[Event/Children's Knitting Group]]%0a%3c * [[Event/Castine Town Band Rehearsal]]%0a\ No newline at end of file%0a
+host:1243049143=127.0.0.1

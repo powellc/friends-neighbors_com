@@ -1,0 +1,15 @@
+version=pmwiki-2.2.0 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; en-us) AppleWebKit/528.16 (KHTML, like Gecko) Version/4.0 Safari/528.16
+author=Colin Powell
+charset=ISO-8859-1
+csum=
+ctime=1243048498
+host=127.0.0.1
+name=Events.GayleLewisOpeningReceptionAtLeightonGallery
+rev=1
+targets=
+text=! Gayle Lewis Show at Leighton Gallery, opening reception%0a%0aFrom 5:30-7:30p at the Leighton Gallery in Blue Hill.%0a%0aCastine artist Gayle Lewis' show runs until July 10.
+time=1243048498
+author:1243048498=Colin Powell
+diff:1243048498:1243048498:=1,5d0%0a%3c ! Gayle Lewis Show at Leighton Gallery, opening reception%0a%3c %0a%3c From 5:30-7:30p at the Leighton Gallery in Blue Hill.%0a%3c %0a%3c Castine artist Gayle Lewis' show runs until July 10.%0a\ No newline at end of file%0a
+host:1243048498=127.0.0.1

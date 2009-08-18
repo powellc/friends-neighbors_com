@@ -1,0 +1,28 @@
+version=pmwiki-2.2.0 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.8) Gecko/2009032711 Ubuntu/8.10 (intrepid) Firefox/3.0.8
+author=Colin Powell
+charset=ISO-8859-1
+csum=
+ctime=1239031526
+host=127.0.0.1
+name=Membership.Joining
+rev=5
+targets=
+text=! Joining%0a%0aThe group title includes both friends and neighbors because no one is limited to joining us. You can be either a friend, a neighbor or both. Of course, it helps if you have a vested interest in the [[http://castine.me.us|Castine]] community. %0a%0aEnter your email address in the form below and click "Subscribe" to add your name to our email list. Before you do that, however, you may wish to read some of what gets sent over email by viewing our [[http://groups.google.com/group/castine-fn?hl=en|Google Group]]. It's all pretty minimal.%0a%0a!! Mailing list%0a(:input form "http://groups.google.com/group/castine-fn/boxsubscribe" :)%0a(:input hidden "hl" "en" :)(:input text "email" :)(:input submit "sub" "Subscribe" :)%0a(:input end:)
+time=1239074913
+author:1239074913=Colin Powell
+diff:1239074913:1239073171:=
+host:1239074913=127.0.0.1
+author:1239073171=Colin Powell
+diff:1239073171:1239072904:=5,7d4%0a%3c Enter your email address in the form below and click "Subscribe" to add your name to our email list. Before you do that, however, you may wish to read some of what gets sent over email by viewing our [[http://groups.google.com/group/castine-fn?hl=en|Google Group]]. It's all pretty minimal.%0a%3c %0a%3c !! Mailing list%0a9,10c6,11%0a%3c (:input hidden "hl" "en" :)(:input text "email" :)(:input submit "sub" "Subscribe" :)%0a%3c (:input end:)%0a\ No newline at end of file%0a---%0a>     (:input hidden "hl" "en" :)%0a>     (:input text "email" :)%0a>     (:input submit "sub" "Subscribe" :)%0a> (:input end:)%0a> %0a> To be put on our mailing list, please join our [[http://groups.google.com/group/castine-fn?hl=en|Google Group]].%0a\ No newline at end of file%0a
+host:1239073171=127.0.0.1
+author:1239072904=Colin Powell
+diff:1239072904:1239071168:=4,9d3%0a%3c %0a%3c (:input form "http://groups.google.com/group/castine-fn/boxsubscribe" :)%0a%3c     (:input hidden "hl" "en" :)%0a%3c     (:input text "email" :)%0a%3c     (:input submit "sub" "Subscribe" :)%0a%3c (:input end:)%0a
+host:1239072904=127.0.0.1
+author:1239071168=Colin Powell
+diff:1239071168:1239031526:=5c5%0a%3c To be put on our mailing list, please join our [[http://groups.google.com/group/castine-fn?hl=en|Google Group]].%0a\ No newline at end of file%0a---%0a> To be put on our mailing list, please contact [[Profiles/Gene Bland]], or [[Profiles/Colin Powell]].%0a\ No newline at end of file%0a
+host:1239071168=127.0.0.1
+author:1239031526=Colin Powell
+csum:1239031526=Created
+diff:1239031526:1239031526:=1,5d0%0a%3c ! Joining%0a%3c %0a%3c The group title includes both friends and neighbors because no one is limited to joining us. You can be either a friend, a neighbor or both. Of course, it helps if you have a vested interest in the [[http://castine.me.us|Castine]] community. %0a%3c %0a%3c To be put on our mailing list, please contact [[Profiles/Gene Bland]], or [[Profiles/Colin Powell]].%0a\ No newline at end of file%0a
+host:1239031526=127.0.0.1

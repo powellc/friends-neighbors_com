@@ -1,0 +1,15 @@
+version=pmwiki-2.2.0 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_4_11; en) AppleWebKit/525.27.1 (KHTML, like Gecko) Version/3.2.1 Safari/525.27.1
+author=Colin Powell
+charset=ISO-8859-1
+csum=
+ctime=1245430050
+host=127.0.0.1
+name=Projects.AnnouncementsBoard
+rev=1
+targets=Projects.Proposed
+text=! Castine Announcements Board ([[Projects/Proposed]])%0a%0a!! Overview%0aWhen Castine F&N first started meeting it was winter. A remark that many other F&N groups were putting up announcements boards in their communities passed by us, as we felt we were already taken care of. Well, now it's summer, and the PO and Town Office boards don't look particularly adequate. Posting wars often lead to torn posters or covered/partially obscured notes.%0a%0aWould it be so bad to have an announcement board on the left lawn of Emerson Hall? It wouldn't even have to face the road, keeping it's obstruction of our wonderful municipal hall to a minimum. The garden club could maintain a small rock path out to it from the main walk of the building. So many possibilities...
+time=1245430050
+author:1245430050=Colin Powell
+diff:1245430050:1245430050:=1,6d0%0a%3c ! Castine Announcements Board ([[Projects/Proposed]])%0a%3c %0a%3c !! Overview%0a%3c When Castine F&N first started meeting it was winter. A remark that many other F&N groups were putting up announcements boards in their communities passed by us, as we felt we were already taken care of. Well, now it's summer, and the PO and Town Office boards don't look particularly adequate. Posting wars often lead to torn posters or covered/partially obscured notes.%0a%3c %0a%3c Would it be so bad to have an announcement board on the left lawn of Emerson Hall? It wouldn't even have to face the road, keeping it's obstruction of our wonderful municipal hall to a minimum. The garden club could maintain a small rock path out to it from the main walk of the building. So many possibilities...%0a\ No newline at end of file%0a
+host:1245430050=127.0.0.1

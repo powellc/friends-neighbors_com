@@ -1,0 +1,18 @@
+version=pmwiki-2.2.0 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.8) Gecko/2009032711 Ubuntu/8.10 (intrepid) Firefox/3.0.8
+author=Colin Powell
+charset=ISO-8859-1
+csum=
+ctime=1239069527
+host=127.0.0.1
+name=Projects.Inactive
+rev=2
+targets=Projects.IceSkatingRink,Projects.B-CFerryService
+text=! Inactive projects%0a%0aThese are projects which, for one reason or another, are inactive. An inactive project is not complete. Most times, an inactive project is because the season is wrong, so the task force is not meeting or people are not planning, or some other condition is not right.%0a%0a* [[Projects/Ice Skating Rink]]%0a* [[Projects/B-C Ferry Service]]
+time=1239070468
+author:1239070468=Colin Powell
+diff:1239070468:1239069527:=5,6c5%0a%3c * [[Projects/Ice Skating Rink]]%0a%3c * [[Projects/B-C Ferry Service]]%0a\ No newline at end of file%0a---%0a> * [[Projects/Ice Skating Rink]]%0a\ No newline at end of file%0a
+host:1239070468=127.0.0.1
+author:1239069527=Colin Powell
+diff:1239069527:1239069527:=1,5d0%0a%3c ! Inactive projects%0a%3c %0a%3c These are projects which, for one reason or another, are inactive. An inactive project is not complete. Most times, an inactive project is because the season is wrong, so the task force is not meeting or people are not planning, or some other condition is not right.%0a%3c %0a%3c * [[Projects/Ice Skating Rink]]%0a\ No newline at end of file%0a
+host:1239069527=127.0.0.1

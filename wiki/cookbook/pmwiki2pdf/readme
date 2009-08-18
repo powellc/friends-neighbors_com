@@ -1,0 +1,30 @@
+#
+# Cookbook PmWiki2Pdf
+#
+###
+
+This cookbook use a FPDF Class ( Freeware ) and this derivated class to function, by ?action=pdf
+This derivated class are : HTML2FPDF,
+It's an hack by Stephane HUC <devs@stephane-huc.net>
+
+#
+# Elements HTML supported
+#
+all, but please see this FAQ : http://html2fpdf.sourceforge.net/features.php
+if you want to known more on HTML2FPDF.
+
+
+#
+# Install
+#
+
+-1- Unzip the pmwiki2pdf.zip (or untar the pmwiki2pdf.tar.gz) on Cookbook directory.
+
+-2- Modify your file config.php in your local directory by this :
+/*** Gestion PDF ***/
+include_once('cookbook/pmwiki2pdf/pmwiki2pdf.php');
+
+-3- Modify [your template].tmpl to include this code :
+<a href="$PageUrl?action=pdf" title="Read this web page on format .pdf" ><acronym title="Portable Document Format" lang="en">PDF</acronym></a>
+
+That's all folks ... really works 'n run !

@@ -1,0 +1,21 @@
+version=pmwiki-2.2.0 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_4_11; en) AppleWebKit/528.16 (KHTML, like Gecko) Version/4.0 Safari/528.16
+author=Colin Powell
+charset=ISO-8859-1
+csum=
+ctime=1238732621
+host=127.0.0.1
+name=Discussions.Discussions
+rev=3
+targets=Discussions.MeetingFrequency
+text=! Discussions%0a%0aThis page is reserved for discussions amongst members. Of course, anyone is free to post, but we'd ask that you make sure you have something constructive to add to the topic before chiming in.%0a%0a!! Recent topics%0a* [[Discussions/Meeting frequency]]
+time=1239031828
+author:1239031828=Colin Powell
+diff:1239031828:1239031799:=6c6,7%0a%3c * [[Discussions/Meeting frequency]]%0a\ No newline at end of file%0a---%0a> * [[Discussions/Meeting frequency]]%0a> * [[Discussions/Using the wiki]]%0a\ No newline at end of file%0a
+host:1239031828=127.0.0.1
+author:1239031799=Colin Powell
+diff:1239031799:1238732621:=6,7c6%0a%3c * [[Discussions/Meeting frequency]]%0a%3c * [[Discussions/Using the wiki]]%0a\ No newline at end of file%0a---%0a> * [[Discussions/Meeting frequency]]%0a\ No newline at end of file%0a
+host:1239031799=127.0.0.1
+author:1238732621=Colin Powell
+diff:1238732621:1238732621:=1,6d0%0a%3c ! Discussions%0a%3c %0a%3c This page is reserved for discussions amongst members. Of course, anyone is free to post, but we'd ask that you make sure you have something constructive to add to the topic before chiming in.%0a%3c %0a%3c !! Recent topics%0a%3c * [[Discussions/Meeting frequency]]%0a\ No newline at end of file%0a
+host:1238732621=127.0.0.1

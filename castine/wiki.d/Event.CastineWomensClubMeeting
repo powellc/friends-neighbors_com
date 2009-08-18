@@ -1,0 +1,18 @@
+version=pmwiki-2.2.0 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; en-us) AppleWebKit/528.18.1 (KHTML, like Gecko) Version/4.0 Safari/528.17
+author=Colin Powell
+charset=ISO-8859-1
+csum=
+ctime=1241462458
+host=127.0.0.1
+name=Event.CastineWomensClubMeeting
+rev=2
+targets=
+text=! Castine Community Event%0a%0a! The Castine Women's Club %0a%0aMeets in Emerson Hall at 11:30 a.m.%0a%0aThis month's speaker is Karen Francoeur.
+time=1243380217
+author:1243380217=Colin Powell
+diff:1243380217:1241462458:=1,5c1%0a%3c ! Castine Community Event%0a%3c %0a%3c ! The Castine Women's Club %0a%3c %0a%3c Meets in Emerson Hall at 11:30 a.m.%0a---%0a> The Women's Club meets in Emerson Hall at 11:30 a.m.%0a
+host:1243380217=127.0.0.1
+author:1241462458=Colin Powell
+diff:1241462458:1241462458:=1,3d0%0a%3c The Women's Club meets in Emerson Hall at 11:30 a.m.%0a%3c %0a%3c This month's speaker is Karen Francoeur.%0a\ No newline at end of file%0a
+host:1241462458=127.0.0.1

@@ -1,0 +1,14 @@
+version=pmwiki-2.2.0 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_4_11; en) AppleWebKit/528.16 (KHTML, like Gecko) Version/4.0 Safari/528.16
+author=Colin Powell
+charset=ISO-8859-1
+csum=
+host=127.0.0.1
+name=Site.PageActions
+rev=31
+targets=Site.PageActions
+text=* %25item              class=browse    accesskey='$[ak_view]'%25[[{*$FullName} | $[View] ]]%0a* %25item rel=nofollow class=edit      accesskey='$[ak_edit]'%25[[{*$FullName}?action=edit | $[Edit] ]]%0a* %25item rel=nofollow class=diff      accesskey='$[ak_history]'%25[[{*$FullName}?action=diff | $[History] ]]%0a(:if auth upload:)%0a* %25item rel=nofollow class=upload    accesskey='$[ak_attach]'%25[[{*$FullName}?action=upload | $[Attach] ]]%0a(:if:)%0a* %25item rel=nofollow class=print     accesskey='$[ak_print]'%25[[{*$FullName}?action=print | $[Print] ]]%0a* %25item rel=nofollow class=print     accesskey='$[ak_pdf]'%25[[{*$FullName}?action=pdf | $[PDF] ]]%0a
+time=1239032686
+author:1239032686=Colin Powell
+diff:1239032686:1159201205:=8d7%0a%3c * %25item rel=nofollow class=print     accesskey='$[ak_pdf]'%25[[{*$FullName}?action=pdf | $[PDF] ]]%0a
+host:1239032686=127.0.0.1

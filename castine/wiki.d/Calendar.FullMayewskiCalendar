@@ -1,0 +1,18 @@
+version=pmwiki-2.2.0 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.10) Gecko/2009042523 Ubuntu/9.04 (jaunty) Firefox/3.0.10
+author=Colin
+charset=ISO-8859-1
+csum=
+ctime=1241464802
+host=127.0.0.1
+name=Calendar.FullMayewskiCalendar
+rev=2
+targets=Calendar.20090505,Event.CAAIndependentDrawingAndPaintingGroup,Event.CastineWomensClubMeeting,Calendar.20090506,Event.DepartureOfTheStateOfMaine,Event.ChildrensKnittingGroup,Event.AnnualLasagnaDinner,Event.ChristianityTheFirst1000YearsFilmSeries,Calendar.20090509,Event.CastineGardenClubBigDig,Calendar.20090510,Event.MothersDay,Event.DowneastFleetRacingChampionshipRegatta,Event.MothersDayObservanceAtTrinitarianCongregationalParish,Calendar.20090511,Event.WitherleWIPSKnittingAndFiberArtsGroup,Event.RehearsalForCastineGala,Calendar.20090512,Calendar.20090513,Event.BagaduceAmbulanceCorpsMeeting,Calendar.20090518
+text=! Lyn Mayweski's Full Castine Community Calendar%0a(:div style='float:right;width:95%25;border:4px double #bbbbbb;background-color:#ffffdd;':)%0a!%25center%25Upcoming Week Events%0a(:pmcal acals=MayweskiCalendar caltype=text monthsahead=1 expire=true zebra=false textdatefmt='%25A, %25B %25e, %25Y' alwaystoday='true' :)%0a(:divend:)%0a%0a(:comment Do not edit this page.  Click on a date to edit. :)
+time=1241493790
+author:1241493790=Colin
+diff:1241493790:1241464802:=2c2%0a%3c (:div style='float:right;width:95%25;border:4px double #bbbbbb;background-color:#ffffdd;':)%0a---%0a> (:div style='float:right;width:68%25;border:4px double #bbbbbb;background-color:#ffffdd;':)%0a
+host:1241493790=127.0.0.1
+author:1241464802=Colin Powell
+diff:1241464802:1241464802:=1,7d0%0a%3c ! Lyn Mayweski's Full Castine Community Calendar%0a%3c (:div style='float:right;width:68%25;border:4px double #bbbbbb;background-color:#ffffdd;':)%0a%3c !%25center%25Upcoming Week Events%0a%3c (:pmcal acals=MayweskiCalendar caltype=text monthsahead=1 expire=true zebra=false textdatefmt='%25A, %25B %25e, %25Y' alwaystoday='true' :)%0a%3c (:divend:)%0a%3c %0a%3c (:comment Do not edit this page.  Click on a date to edit. :)%0a\ No newline at end of file%0a
+host:1241464802=127.0.0.1

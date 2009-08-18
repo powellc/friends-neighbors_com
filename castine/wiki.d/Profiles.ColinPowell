@@ -1,0 +1,18 @@
+version=pmwiki-2.2.0 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_4_11; en) AppleWebKit/528.16 (KHTML, like Gecko) Version/4.0 Safari/528.16
+author=Colin Powell
+charset=ISO-8859-1
+csum=
+ctime=1239031190
+host=127.0.0.1
+name=Profiles.ColinPowell
+rev=2
+targets=Projects.FarmersMarket
+text=! Colin Powell%0a%0a!! Info%0a* Title: Grand vizier%0a* Phone: 326-1014%0a* Email: [[mailto:colin.powell@me.com|colin.powell@me.com]]%0a%0a!! Active in%0a* [[Projects/Farmers Market]]%0a
+time=1239031246
+author:1239031246=Colin Powell
+diff:1239031246:1239031190:=4c4%0a%3c * Title: Grand vizier%0a---%0a> * Title: Chair%0a
+host:1239031246=127.0.0.1
+author:1239031190=Colin
+diff:1239031190:1239031190:=1,9d0%0a%3c ! Colin Powell%0a%3c %0a%3c !! Info%0a%3c * Title: Chair%0a%3c * Phone: 326-1014%0a%3c * Email: [[mailto:colin.powell@me.com|colin.powell@me.com]]%0a%3c %0a%3c !! Active in%0a%3c * [[Projects/Farmers Market]]%0a
+host:1239031190=127.0.0.1

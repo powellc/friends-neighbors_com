@@ -1,0 +1,18 @@
+version=pmwiki-2.2.0 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.8) Gecko/2009032711 Ubuntu/8.10 (intrepid) Firefox/3.0.8
+author=Colin Powell
+charset=ISO-8859-1
+csum=
+ctime=1238704267
+host=127.0.0.1
+name=Membership.Membership
+rev=2
+targets=Membership.Joining,Projects.Projects,Meetings.Minutes
+text=!! Membership%0a%0aMembership in the Castine Friends and Neighbors group is as simple as showing up to a meeting and putting your name on the list. There is little formality to the membership at the moment, and the hope is that keeping it simple will encourage more people to help make our town the best that it can be.%0a%0aIn order to keep up with our discussions, please see the page on [[Membership/joining]] the group. You can also read up on our [[Projects/projects]] and our most recent [[Meetings/minutes]].
+time=1239073713
+author:1239073713=Colin Powell
+diff:1239073713:1238704267:=3,5c3%0a%3c Membership in the Castine Friends and Neighbors group is as simple as showing up to a meeting and putting your name on the list. There is little formality to the membership at the moment, and the hope is that keeping it simple will encourage more people to help make our town the best that it can be.%0a%3c %0a%3c In order to keep up with our discussions, please see the page on [[Membership/joining]] the group. You can also read up on our [[Projects/projects]] and our most recent [[Meetings/minutes]].%0a\ No newline at end of file%0a---%0a> Membership in the Castine Friends and Neighbors group is as simple as showing up to a meeting and putting your name on the list. There is little formality to the membership at the moment, and the hope is that keeping it simple will encourage more people to help make our town the best that it can be.%0a\ No newline at end of file%0a
+host:1239073713=127.0.0.1
+author:1238704267=
+diff:1238704267:1238704267:=1,3d0%0a%3c !! Membership%0a%3c %0a%3c Membership in the Castine Friends and Neighbors group is as simple as showing up to a meeting and putting your name on the list. There is little formality to the membership at the moment, and the hope is that keeping it simple will encourage more people to help make our town the best that it can be.%0a\ No newline at end of file%0a
+host:1238704267=127.0.0.1

@@ -1,0 +1,19 @@
+version=pmwiki-2.2.0 ordered=1 urlencoded=1
+agent=Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.04506)
+author=Gene Bland
+charset=ISO-8859-1
+csum=one concern 
+ctime=1238732845
+host=127.0.0.1
+name=Discussions.MeetingFrequency
+rev=2
+targets=
+text=! Discussion on meeting frequency%0a%0a!!!! April 3, 2009 from Colin%0a%0aAt the conclusion of our April 2 meeting, a thought occured to me. While we are waiting on some preliminary write-ups of what exactly our group does, it was clear that one thing we do is serve as a place to report on progress, not necessarily oversee projects. As such, perhaps we'd do better to hold CFN meetings once a month instead of twice a month. Agendas might get a bit longer, but that would be excusable because we would have them less frequently. %0a%0aPersonally, I love meetings. I realize they are the bane of some people's existences, but I find that despite their lack of productivity, they help re-energize me and remind me why I'm doing things. But that's just my two cents. Reply on this page by clicking "Edit" in the upper right or at the bottom of the page.%0a%0aMy one concern is that should we meet only monthly some of us with assigned or voluntary tasks to perform and report on might put off til too late to accomplish and report in full to the CFN group. We could call it "procrastinate". %0a%0a
+time=1238772139
+author:1238772139=Gene Bland
+csum:1238772139=one concern 
+diff:1238772139:1238732845:minor=8,9d7%0a%3c %0a%3c My one concern is that should we meet only monthly some of us with assigned or voluntary tasks to perform and report on might put off til too late to accomplish and report in full to the CFN group. We could call it "procrastinate". %0a
+host:1238772139=127.0.0.1
+author:1238732845=Colin Powell
+diff:1238732845:1238732845:=1,8d0%0a%3c ! Discussion on meeting frequency%0a%3c %0a%3c !!!! April 3, 2009 from Colin%0a%3c %0a%3c At the conclusion of our April 2 meeting, a thought occured to me. While we are waiting on some preliminary write-ups of what exactly our group does, it was clear that one thing we do is serve as a place to report on progress, not necessarily oversee projects. As such, perhaps we'd do better to hold CFN meetings once a month instead of twice a month. Agendas might get a bit longer, but that would be excusable because we would have them less frequently. %0a%3c %0a%3c Personally, I love meetings. I realize they are the bane of some people's existences, but I find that despite their lack of productivity, they help re-energize me and remind me why I'm doing things. But that's just my two cents. Reply on this page by clicking "Edit" in the upper right or at the bottom of the page.%0a%3c %0a
+host:1238732845=127.0.0.1

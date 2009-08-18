@@ -1,0 +1,15 @@
+version=pmwiki-2.2.0 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/530.19.2 (KHTML, like Gecko) Version/4.0.2 Safari/530.19
+author=Colin Powell
+charset=ISO-8859-1
+csum=
+ctime=1250025667
+host=127.0.0.1
+name=Attractions.Attractions
+rev=1
+targets=Forts.FortGeorge,Forts.FortMadison,Forts.FortPentagoet,Beaches.Backshore,Beaches.YachtClub,Facilities.PublicRestrooms,Facilities.Parking
+text=! Attractions in Castine%0a* [[Forts/Fort George]]%0a* [[Forts/Fort Madison]]%0a* [[Forts/Fort Pentagoet]]%0a* [[Beaches/Backshore]]%0a* [[Beaches/Yacht Club]]%0a* [[Facilities/Public Restrooms]]%0a* [[Facilities/Parking]]
+time=1250025667
+author:1250025667=Colin Powell
+diff:1250025667:1250025667:=1,8d0%0a%3c ! Attractions in Castine%0a%3c * [[Forts/Fort George]]%0a%3c * [[Forts/Fort Madison]]%0a%3c * [[Forts/Fort Pentagoet]]%0a%3c * [[Beaches/Backshore]]%0a%3c * [[Beaches/Yacht Club]]%0a%3c * [[Facilities/Public Restrooms]]%0a%3c * [[Facilities/Parking]]%0a\ No newline at end of file%0a
+host:1250025667=127.0.0.1

@@ -1,0 +1,22 @@
+version=pmwiki-2.2.0 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_6; en-us) AppleWebKit/528.16 (KHTML, like Gecko) Version/4.0 Safari/528.16
+author=Colin Powell
+charset=ISO-8859-1
+csum=
+ctime=1238704330
+host=127.0.0.1
+name=Meetings.Meetings
+rev=3
+targets=Meetings.Format,Meetings.Notes,Projects.Proposed
+text=!! Meetings%0a%0aThe Castine Friends and Neighbors group meets every second Thursday at 4 p.m. in the Witherle Memorial Library. %0a%0aOur agendas are usually fairly loose, and we talk about what projects people are working on, difficulties, interested people, resources, and so on. We also reserve the last 10 minutes of every meeting for a "bubble up" session, where people put forward new ideas they would like to see action on. They do not necessarily have to be the ones to spearhead the project, but just have an interest in it.%0a%0aFor more on our format, please see the [[Meetings/Format]] page. %0a%0aA record of our meeting notes can be found at [[Meetings/Notes]].%0a%0aWe keep lists of all proposed ideas for reference. See the [[Projects/Proposed]] projects page for more information.
+time=1239939412
+author:1239939412=Colin Powell
+diff:1239939412:1239031703:=3c3%0a%3c The Castine Friends and Neighbors group meets every second Thursday at 4 p.m. in the Witherle Memorial Library. %0a---%0a> The Castine Friends and Neighbors group meets every other Thursday at 4 p.m. in the Witherle Memorial Library. %0a
+host:1239939412=127.0.0.1
+author:1239031703=Colin Powell
+csum:1239031703=Added links to format and notes
+diff:1239031703:1238704330:=6,9d5%0a%3c %0a%3c For more on our format, please see the [[Meetings/Format]] page. %0a%3c %0a%3c A record of our meeting notes can be found at [[Meetings/Notes]].%0a
+host:1239031703=127.0.0.1
+author:1238704330=Colin Powell
+diff:1238704330:1238704330:=1,7d0%0a%3c !! Meetings%0a%3c %0a%3c The Castine Friends and Neighbors group meets every other Thursday at 4 p.m. in the Witherle Memorial Library. %0a%3c %0a%3c Our agendas are usually fairly loose, and we talk about what projects people are working on, difficulties, interested people, resources, and so on. We also reserve the last 10 minutes of every meeting for a "bubble up" session, where people put forward new ideas they would like to see action on. They do not necessarily have to be the ones to spearhead the project, but just have an interest in it.%0a%3c %0a%3c We keep lists of all proposed ideas for reference. See the [[Projects/Proposed]] projects page for more information.%0a\ No newline at end of file%0a
+host:1238704330=127.0.0.1

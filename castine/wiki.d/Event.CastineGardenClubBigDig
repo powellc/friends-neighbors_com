@@ -1,0 +1,18 @@
+version=pmwiki-2.2.0 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_4_11; en) AppleWebKit/528.16 (KHTML, like Gecko) Version/4.0 Safari/528.16
+author=Colin Powell
+charset=ISO-8859-1
+csum=
+ctime=1241463796
+host=127.0.0.1
+name=Event.CastineGardenClubBigDig
+rev=2
+targets=
+text=! Big Dig%0a!! Hosted by the Castine Garden Club%0a%0a9 a.m. on Saturday.%0a%0aGet ahold of a member of the club for more information.
+time=1241465947
+author:1241465947=Colin Powell
+diff:1241465947:1241463796:=1,6c1%0a%3c ! Big Dig%0a%3c !! Hosted by the Castine Garden Club%0a%3c %0a%3c 9 a.m. on Saturday.%0a%3c %0a%3c Get ahold of a member of the club for more information.%0a\ No newline at end of file%0a---%0a> Saturday and 9 a.m.%0a\ No newline at end of file%0a
+host:1241465947=127.0.0.1
+author:1241463796=Colin Powell
+diff:1241463796:1241463796:=1d0%0a%3c Saturday and 9 a.m.%0a\ No newline at end of file%0a
+host:1241463796=127.0.0.1

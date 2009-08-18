@@ -1,0 +1,21 @@
+version=pmwiki-2.2.0 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; en-us) AppleWebKit/528.18.1 (KHTML, like Gecko) Version/4.0 Safari/528.17
+author=Colin Powell
+charset=ISO-8859-1
+csum=
+ctime=1242310761
+host=127.0.0.1
+name=Events.CastineFriendsAndNeighborsMeeting
+rev=3
+targets=
+text=! Castine Friends and Neighbors Meeting%0a%0aSecond Thursday of the month, from 4PM - 5:30PM at the Witherle Memorial Library%0a%0a
+time=1243185321
+author:1243185321=Colin Powell
+diff:1243185321:1242310777:=4a5%0a> Our May 14 meeting will be a big one, with a report due from our asset mapper Maggie Williams. Be there!%0a\ No newline at end of file%0a
+host:1243185321=127.0.0.1
+author:1242310777=Colin Powell
+diff:1242310777:1242310761:=3c3%0a%3c Second Thursday of the month, from 4PM - 5:30PM at the Witherle Memorial Library%0a---%0a> Third Thursday of the month, from 4PM - 5:30PM at the Witherle Memorial Library%0a
+host:1242310777=127.0.0.1
+author:1242310761=Colin Powell
+diff:1242310761:1242310761:=1,5d0%0a%3c ! Castine Friends and Neighbors Meeting%0a%3c %0a%3c Third Thursday of the month, from 4PM - 5:30PM at the Witherle Memorial Library%0a%3c %0a%3c Our May 14 meeting will be a big one, with a report due from our asset mapper Maggie Williams. Be there!%0a\ No newline at end of file%0a
+host:1242310761=127.0.0.1

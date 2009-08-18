@@ -1,0 +1,23 @@
+version=pmwiki-2.2.0 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.10) Gecko/2009042523 Ubuntu/9.04 (jaunty) Firefox/3.0.10
+author=Colin Powell
+charset=ISO-8859-1
+csum=
+ctime=1241532890
+host=127.0.0.1
+name=Calendar.20090829
+rev=3
+targets=Calendar.BooksaleByFriendsOfWitherleMemorialLibrary
+text=* [[Booksale by Friends of Witherle Memorial Library]]
+time=1241654174
+author:1241654174=Colin Powell
+diff:1241654174:1241532936:=1c1%0a%3c * [[Booksale by Friends of Witherle Memorial Library]]%0a\ No newline at end of file%0a---%0a> Booksale by Friends of Witherle Memorial Library 11-2 PM downstairs in the library.%0a\ No newline at end of file%0a
+host:1241654174=127.0.0.1
+author:1241532936=
+csum:1241532936=Friends Booksale 8/29/09
+diff:1241532936:1241532890:=
+host:1241532936=127.0.0.1
+author:1241532890=
+csum:1241532890=Friends Booksale 8/29/09
+diff:1241532890:1241532890:=1d0%0a%3c Booksale by Friends of Witherle Memorial Library 11-2 PM downstairs in the library. %0a\ No newline at end of file%0a
+host:1241532890=127.0.0.1

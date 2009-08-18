@@ -1,0 +1,18 @@
+version=pmwiki-2.2.0 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; en-us) AppleWebKit/528.16 (KHTML, like Gecko) Version/4.0 Safari/528.16
+author=Colin Powell
+charset=ISO-8859-1
+csum=
+ctime=1243049497
+host=127.0.0.1
+name=Calendar.20090601
+rev=2
+targets=Event.GolfCommitteeMeeting,Event.WitherleWIPSKnittingAndFiberArtsGroup,Event.RehearsalForCastineGala
+text=* 9a [[Event/Golf Committee Meeting]]%0a* 10a-12p [[Event/Witherle WIPS: Knitting and fiber arts group]]%0a* 7p [[Event/Rehearsal for Castine Gala]]
+time=1243049556
+author:1243049556=Colin Powell
+diff:1243049556:1243049497:=2c2%0a%3c * 10a-12p [[Event/Witherle WIPS: Knitting and fiber arts group]]%0a---%0a> * 10a-12p [[Event/Witherle WIPS]]%0a
+host:1243049556=127.0.0.1
+author:1243049497=Colin Powell
+diff:1243049497:1243049497:=1,3d0%0a%3c * 9a [[Event/Golf Committee Meeting]]%0a%3c * 10a-12p [[Event/Witherle WIPS]]%0a%3c * 7p [[Event/Rehearsal for Castine Gala]]%0a\ No newline at end of file%0a
+host:1243049497=127.0.0.1
